@@ -24,3 +24,15 @@
 
 * [Github](git/github/README.md)
   * [Introduction](git/github/introduction.md)
+
+## Cybersec
+
+* [soon](cybersec/soon.md)
+
+## Script
+
+* [soon](script/soon.md)
+
+## Anon Wave
+
+* [soon](anon-wave/soon.md)
