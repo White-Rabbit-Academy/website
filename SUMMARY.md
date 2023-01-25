@@ -2,7 +2,7 @@
 
 * [🏠 Home](README.md)
 
-## 🌐 Web
+## Web
 
 * [Home](web/home.md)
 * [Les bases du web](web/les-bases-du-web/README.md)
