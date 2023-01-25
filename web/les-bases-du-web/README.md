@@ -1,3 +1,2 @@
 # Les bases du web
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="mon-premier-site-web/">mon-premier-site-web</a></td><td><a href="../../.gitbook/assets/pexels-designecologist-1779487.jpg">pexels-designecologist-1779487.jpg</a></td></tr><tr><td></td><td></td><td></td><td><a href="japprends-le-js/">japprends-le-js</a></td><td><a href="../../.gitbook/assets/pexels-markus-spiske-177598.jpg">pexels-markus-spiske-177598.jpg</a></td></tr></tbody></table>
