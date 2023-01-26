@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/ef85065739894b2f2f3f19cf02597198.jpg
+cover: ../../.gitbook/assets/ef85065739894b2f2f3f19cf02597198.jpg
 coverY: 0
 ---
 
@@ -11,3 +11,4 @@ Site officiel du framework : [https://deno.land/](https://deno.land/)
 
 Installation : [https://deno.land/manual@v1.30.0/getting\_started/installation](https://deno.land/manual@v1.30.0/getting\_started/installation)
 
+<figure><img src="https://deno.land/images/artwork/deno_inVR_withUsasaki.png?__frsh_c=m68s86t1qbpg" alt=""><figcaption><p>Deno is LIFE <span data-gb-custom-inline data-tag="emoji" data-code="2665">♥</span></p></figcaption></figure>

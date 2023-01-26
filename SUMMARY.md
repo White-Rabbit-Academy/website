@@ -31,8 +31,13 @@
 
 ## Script
 
-* [Home](script/home.md)
-* [Deno](script/deno.md)
+* [Home](script/soon.md)
+* [Deno](script/deno/README.md)
+  * [Bien débuter](script/deno/bien-debuter/README.md)
+    * [deno run](script/deno/bien-debuter/deno-run.md)
+    * [official module](script/deno/bien-debuter/official-module.md)
+    * [third party module](script/deno/bien-debuter/third-party-module.md)
+    * [en mode dev](script/deno/bien-debuter/en-mode-dev.md)
 
 ## Anon Wave
 
