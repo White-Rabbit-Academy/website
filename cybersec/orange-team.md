@@ -16,6 +16,8 @@ Les missions de la orange team peuvent inclure:
 * La participation à la réponse aux incidents de sécurité pour identifier les vulnérabilités et les faiblesses
 * La création de rapports sur les vulnérabilités identifiées et les recommandations pour les corriger
 
+## Type de profil professionnel qui travaille en orange team
+
 Un exemple de profil professionnel qui pourrait travailler en équipe orange serait un analyste de sécurité incident. Les tâches d'un analyste de sécurité incident peuvent inclure :
 
 * La surveillance des systèmes et des réseaux pour détecter les activités malveillantes

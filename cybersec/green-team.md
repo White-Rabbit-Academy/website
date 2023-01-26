@@ -15,7 +15,9 @@ Les missions de la green team peuvent inclure :
 * La mise en place de plans de reprise après sinistre pour assurer la continuité des activités
 * La collaboration avec les équipes blue, red, orange et yellow pour identifier les vulnérabilités et les faiblesses dans les systèmes et les réseaux
 
-Un exemple de profil professionnel qui pourrait travailler en équipe green serait un gestionnaire de continuité d'activité (BCM) ou un gestionnaire de crise. Les tâches d'un gestionnaire de continuité d'activité ou d'un gestionnaire de crise peuvent inclure:
+## Type de profil professionnel qui travaille en green team
+
+Un exemple de profil professionnel qui pourrait travailler en équipe green serait un gestionnaire de continuité d'activité (BCM) ou un gestionnaire de crise. Les tâches d'un gestionnaire de continuité d'activité ou d'un gestionnaire de crise peuvent inclure :
 
 * La planification et la préparation pour faire face aux incidents de sécurité
 * La coordination de la réponse aux incidents de sécurité

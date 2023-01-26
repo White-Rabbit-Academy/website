@@ -16,6 +16,8 @@ Les missions de la purple team peuvent inclure:
 * La participation à la réponse aux incidents de sécurité pour identifier les vulnérabilités et les faiblesses
 * La création de rapports sur les vulnérabilités identifiées et les recommandations pour les corriger
 
+## Type de profil professionnel qui travaille en Purple team
+
 Un exemple de profil professionnel qui pourrait travailler en équipe purple serait un ingénieur en sécurité. Les tâches d'un ingénieur en sécurité peuvent inclure :
 
 * La simulation d'attaques pour tester les systèmes de défense de l'entreprise

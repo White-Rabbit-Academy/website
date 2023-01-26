@@ -16,6 +16,8 @@ Les missions de la red team peuvent inclure :
 * La participation à la réponse aux incidents de sécurité pour identifier les vulnérabilités et les faiblesses
 * La création de rapports sur les vulnérabilités identifiées et les recommandations pour les corriger
 
+## Type de profil professionnel qui travaille en red team
+
 Un exemple de profil professionnel qui pourrait travailler en équipe red serait un pentester (penetration tester). Les tâches d'un pentester peuvent inclure :
 
 * La recherche de vulnérabilités dans les systèmes et les réseaux

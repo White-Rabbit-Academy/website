@@ -16,6 +16,8 @@ Les missions de la yellow team peuvent inclure :
 * La collaboration avec les équipes blue, red et orange pour identifier les vulnérabilités et les faiblesses dans les systèmes et les réseaux
 * La création de rapports sur les risques et la conformité
 
+## Type de profil professionnel qui travaille en yellow team
+
 Un exemple de profil professionnel qui pourrait travailler en équipe yellow serait un analyste de conformité et de sécurité. Les tâches d'un analyste de conformité et de sécurité peuvent inclure:
 
 * L'évaluation des risques liés à la sécurité informatique de l'entreprise
