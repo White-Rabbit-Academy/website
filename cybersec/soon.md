@@ -14,4 +14,4 @@ La cybersécurité est la pratique de protéger les systèmes informatiques, les
 
 ## Quels sont les domaines ?
 
-![](<../.gitbook/assets/Capture d’écran 2023-01-26 à 10.18.28.png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-01-26 à 10.18.28.png" alt=""><figcaption><p>Cybersec circle</p></figcaption></figure>

@@ -27,7 +27,7 @@
 
 ## Cybersec
 
-* [Home](cybersec/home.md)
+* [Home](cybersec/soon.md)
 
 ## Script
 
