@@ -28,6 +28,12 @@
 ## Cybersec
 
 * [Home](cybersec/soon.md)
+* [Blue Team](cybersec/blue-team.md)
+* [Purple Team](cybersec/purple-team.md)
+* [Red Team](cybersec/red-team.md)
+* [Orange Team](cybersec/orange-team.md)
+* [Yellow Team](cybersec/yellow-team.md)
+* [Green Team](cybersec/green-team.md)
 
 ## Script
 
