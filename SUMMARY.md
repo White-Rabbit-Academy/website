@@ -31,7 +31,8 @@
 
 ## Script
 
-* [soon](script/soon.md)
+* [Home](script/home.md)
+* [Deno](script/deno.md)
 
 ## Anon Wave
 
