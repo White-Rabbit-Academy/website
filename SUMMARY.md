@@ -24,7 +24,9 @@
 
 * [Github](git/github/README.md)
   * [Introduction](git/github/introduction.md)
-* [Automatisation](git/automatisation.md)
+* [Automatisation](git/automatisation/README.md)
+  * [DevOps ? C'est quoi](git/automatisation/devops-cest-quoi/README.md)
+    * [Projets DevOps](git/automatisation/devops-cest-quoi/projets-devops.md)
 
 ## Cybersec
 
