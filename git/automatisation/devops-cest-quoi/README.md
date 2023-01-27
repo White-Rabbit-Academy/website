@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# DevOps ? C'est quoi
+# 🚧 DevOps ? C'est quoi
 
 DevOps est un terme qui décrit une culture, un mouvement ou une pratique qui vise à améliorer la collaboration et la communication entre les équipes de développement et d'exploitation d'un projet. Le but principal est d'accélérer la livraison de produits et services de qualité, tout en réduisant les risques et les coûts.
 
