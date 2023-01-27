@@ -36,6 +36,8 @@
   * [Ressources utiles](cybersec/blue-team/ressources-utiles.md)
 * [Purple Team](cybersec/purple-team/README.md)
   * [Ressources utiles](cybersec/purple-team/ressources-utiles.md)
+  * [Adversary emulation](cybersec/purple-team/adversary-emulation/README.md)
+    * [Les outils](cybersec/purple-team/adversary-emulation/les-outils.md)
 * [Red Team](cybersec/red-team/README.md)
   * [Ressources utiles](cybersec/red-team/ressources-utiles.md)
 * [Orange Team](cybersec/orange-team/README.md)
@@ -57,6 +59,16 @@
     * [official module](script/deno/bien-debuter/official-module.md)
     * [third party module](script/deno/bien-debuter/third-party-module.md)
     * [en mode dev](script/deno/bien-debuter/en-mode-dev.md)
+* [Python](script/python/README.md)
+  * [Débuter avec Python](script/python/debuter-avec-python/README.md)
+    * [01 - Syntaxe de base](script/python/debuter-avec-python/01-syntaxe-de-base.md)
+    * [02 - Types de données](script/python/debuter-avec-python/02-types-de-donnees.md)
+    * [03 - Modules et bibliothèques](script/python/debuter-avec-python/03-modules-et-bibliotheques.md)
+    * [04 - Programmation Orientée Objet](script/python/debuter-avec-python/04-programmation-orientee-objet.md)
+    * [05 - Erreurs et débogage](script/python/debuter-avec-python/05-erreurs-et-debogage.md)
+    * [06 - Pratique](script/python/debuter-avec-python/06-pratique.md)
+    * [07 - Algorithmie](script/python/debuter-avec-python/07-algorithmie.md)
+    * [08 - Connaissance des outils de dev](script/python/debuter-avec-python/08-connaissance-des-outils-de-dev.md)
 
 ## Anon Wave
 
