@@ -1,3 +1,8 @@
+---
+cover: https://fueradefoco.com.mx/wp-content/uploads/2018/05/Anon4-e1526285265380.jpg
+coverY: 0
+---
+
 # Les grands principes
 
 Les grands principes de l'anonymat en ligne comprennent :
