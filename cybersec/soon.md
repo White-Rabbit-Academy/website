@@ -20,6 +20,8 @@ La cybersécurité est la pratique de protéger les systèmes informatiques, les
 
 <table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="blue-team/">blue-team</a></td></tr><tr><td><a href="purple-team/">purple-team</a></td></tr><tr><td><a href="red-team/">red-team</a></td></tr><tr><td><a href="orange-team/">orange-team</a></td></tr><tr><td><a href="yellow-team/">yellow-team</a></td></tr><tr><td><a href="green-team/">green-team</a></td></tr></tbody></table>
 
-### Pages :&#x20;
+### Formations :&#x20;
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="home/formations.md">formations.md</a></td></tr><tr><td><a href="home/cve.md">cve.md</a></td></tr></tbody></table>
+{% content-ref url="home/formations.md" %}
+[formations.md](home/formations.md)
+{% endcontent-ref %}
