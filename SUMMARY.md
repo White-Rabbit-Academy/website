@@ -24,10 +24,11 @@
 
 * [Github](git/github/README.md)
   * [Introduction](git/github/introduction.md)
+* [Automatisation](git/automatisation.md)
 
 ## Cybersec
 
-* [Home](cybersec/home/README.md)
+* [Home](cybersec/soon.md)
   * [Formations](cybersec/home/formations.md)
 * [Blue Team](cybersec/blue-team/README.md)
   * [Ressources utiles](cybersec/blue-team/ressources-utiles.md)

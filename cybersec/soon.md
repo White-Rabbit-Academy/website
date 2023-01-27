@@ -14,14 +14,14 @@ La cybersécurité est la pratique de protéger les systèmes informatiques, les
 
 ## Quels sont les domaines ?
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-26 à 10.18.28.png" alt=""><figcaption><p>Cybersec circle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-01-26 à 10.18.28.png" alt=""><figcaption><p>Cybersec circle</p></figcaption></figure>
 
 ### Liste des sous-modules
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../blue-team/">blue-team</a></td></tr><tr><td><a href="../purple-team/">purple-team</a></td></tr><tr><td><a href="../red-team/">red-team</a></td></tr><tr><td><a href="../orange-team/">orange-team</a></td></tr><tr><td><a href="../yellow-team/">yellow-team</a></td></tr><tr><td><a href="../green-team/">green-team</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="blue-team/">blue-team</a></td></tr><tr><td><a href="purple-team/">purple-team</a></td></tr><tr><td><a href="red-team/">red-team</a></td></tr><tr><td><a href="orange-team/">orange-team</a></td></tr><tr><td><a href="yellow-team/">yellow-team</a></td></tr><tr><td><a href="green-team/">green-team</a></td></tr></tbody></table>
 
 ### Formations :&#x20;
 
-{% content-ref url="formations.md" %}
-[formations.md](formations.md)
+{% content-ref url="home/formations.md" %}
+[formations.md](home/formations.md)
 {% endcontent-ref %}
