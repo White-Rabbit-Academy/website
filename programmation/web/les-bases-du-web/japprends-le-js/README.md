@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/pexels-markus-spiske-2004161.jpg
+cover: ../../../../.gitbook/assets/pexels-markus-spiske-2004161.jpg
 coverY: 0
 ---
 

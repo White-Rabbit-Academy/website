@@ -2,23 +2,40 @@
 
 * [🏠 Home](README.md)
 
-## Web
+## Programmation
 
-* [Home](web/home.md)
-* [Les bases du web](web/les-bases-du-web/README.md)
-  * [Mon premier site web](web/les-bases-du-web/mon-premier-site-web/README.md)
-    * [Apprend le html css](web/les-bases-du-web/mon-premier-site-web/apprend-le-html-css.md)
-    * [Mon premier site web](web/les-bases-du-web/mon-premier-site-web/mon-premier-site-web.md)
-  * [J'apprends le JS](web/les-bases-du-web/japprends-le-js/README.md)
-    * [01 - Introduction](web/les-bases-du-web/japprends-le-js/01-introduction.md)
-    * [02 - Variables](web/les-bases-du-web/japprends-le-js/02-variables.md)
-    * [03 - Opérateurs](web/les-bases-du-web/japprends-le-js/03-operateurs.md)
-    * [04 - Conditions](web/les-bases-du-web/japprends-le-js/04-conditions.md)
-    * [05 - Boucles](web/les-bases-du-web/japprends-le-js/05-boucles.md)
-    * [06 - Fonctions](web/les-bases-du-web/japprends-le-js/06-fonctions.md)
-    * [07 - Tableaux et objets](web/les-bases-du-web/japprends-le-js/07-tableaux-et-objets.md)
-    * [08 - DOM](web/les-bases-du-web/japprends-le-js/08-dom.md)
-    * [09 - Événements](web/les-bases-du-web/japprends-le-js/09-evenements.md)
+* [Home](script/soon.md)
+* [Deno](script/deno/README.md)
+  * [Bien débuter](script/deno/bien-debuter/README.md)
+    * [deno run](script/deno/bien-debuter/deno-run.md)
+    * [official module](script/deno/bien-debuter/official-module.md)
+    * [third party module](script/deno/bien-debuter/third-party-module.md)
+    * [en mode dev](script/deno/bien-debuter/en-mode-dev.md)
+* [Python](programmation/python/README.md)
+  * [Débuter avec Python](programmation/python/debuter-avec-python/README.md)
+    * [01 - Syntaxe de base](programmation/python/debuter-avec-python/01-syntaxe-de-base.md)
+    * [02 - Types de données](programmation/python/debuter-avec-python/02-types-de-donnees.md)
+    * [03 - Modules et bibliothèques](programmation/python/debuter-avec-python/03-modules-et-bibliotheques.md)
+    * [04 - Programmation Orientée Objet](programmation/python/debuter-avec-python/04-programmation-orientee-objet.md)
+    * [05 - Erreurs et débogage](programmation/python/debuter-avec-python/05-erreurs-et-debogage.md)
+    * [06 - Pratique](programmation/python/debuter-avec-python/06-pratique.md)
+    * [07 - Algorithmie](programmation/python/debuter-avec-python/07-algorithmie.md)
+    * [08 - Connaissance des outils de dev](programmation/python/debuter-avec-python/08-connaissance-des-outils-de-dev.md)
+* [Web](programmation/web/README.md)
+  * [Les bases du web](programmation/web/les-bases-du-web/README.md)
+    * [Mon premier site web](programmation/web/les-bases-du-web/mon-premier-site-web/README.md)
+      * [Apprend le html css](programmation/web/les-bases-du-web/mon-premier-site-web/apprend-le-html-css.md)
+      * [Mon premier site web](programmation/web/les-bases-du-web/mon-premier-site-web/mon-premier-site-web.md)
+    * [J'apprends le JS](programmation/web/les-bases-du-web/japprends-le-js/README.md)
+      * [01 - Introduction](programmation/web/les-bases-du-web/japprends-le-js/01-introduction.md)
+      * [02 - Variables](programmation/web/les-bases-du-web/japprends-le-js/02-variables.md)
+      * [03 - Opérateurs](programmation/web/les-bases-du-web/japprends-le-js/03-operateurs.md)
+      * [04 - Conditions](programmation/web/les-bases-du-web/japprends-le-js/04-conditions.md)
+      * [05 - Boucles](programmation/web/les-bases-du-web/japprends-le-js/05-boucles.md)
+      * [06 - Fonctions](programmation/web/les-bases-du-web/japprends-le-js/06-fonctions.md)
+      * [07 - Tableaux et objets](programmation/web/les-bases-du-web/japprends-le-js/07-tableaux-et-objets.md)
+      * [08 - DOM](programmation/web/les-bases-du-web/japprends-le-js/08-dom.md)
+      * [09 - Événements](programmation/web/les-bases-du-web/japprends-le-js/09-evenements.md)
 
 ## Git
 
@@ -49,26 +66,6 @@
 * [On dérive](cybersec/on-derive/README.md)
   * [Films](cybersec/on-derive/films/README.md)
     * [Who Am I - No System Is Safe](cybersec/on-derive/films/who-am-i-no-system-is-safe.md)
-
-## Programmation
-
-* [Home](programmation/home.md)
-* [Deno](programmation/deno/README.md)
-  * [Bien débuter](programmation/deno/bien-debuter/README.md)
-    * [deno run](programmation/deno/bien-debuter/deno-run.md)
-    * [official module](programmation/deno/bien-debuter/official-module.md)
-    * [third party module](programmation/deno/bien-debuter/third-party-module.md)
-    * [en mode dev](programmation/deno/bien-debuter/en-mode-dev.md)
-* [Python](programmation/python/README.md)
-  * [Débuter avec Python](programmation/python/debuter-avec-python/README.md)
-    * [01 - Syntaxe de base](programmation/python/debuter-avec-python/01-syntaxe-de-base.md)
-    * [02 - Types de données](programmation/python/debuter-avec-python/02-types-de-donnees.md)
-    * [03 - Modules et bibliothèques](programmation/python/debuter-avec-python/03-modules-et-bibliotheques.md)
-    * [04 - Programmation Orientée Objet](programmation/python/debuter-avec-python/04-programmation-orientee-objet.md)
-    * [05 - Erreurs et débogage](programmation/python/debuter-avec-python/05-erreurs-et-debogage.md)
-    * [06 - Pratique](programmation/python/debuter-avec-python/06-pratique.md)
-    * [07 - Algorithmie](programmation/python/debuter-avec-python/07-algorithmie.md)
-    * [08 - Connaissance des outils de dev](programmation/python/debuter-avec-python/08-connaissance-des-outils-de-dev.md)
 
 ## Anon Wave
 
