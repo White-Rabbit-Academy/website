@@ -41,13 +41,13 @@
 
 * [Home](sysadmin/home.md)
 * [Les bases](sysadmin/les-bases/README.md)
-  * [Base du réseaux](sysadmin/les-bases/base-du-reseaux/README.md)
+  * [📡 Base du réseaux](sysadmin/les-bases/base-du-reseaux/README.md)
     * [Le modèle OSI](sysadmin/les-bases/base-du-reseaux/le-modele-osi.md)
     * [Les unités informatiques](sysadmin/les-bases/base-du-reseaux/les-unites-informatiques.md)
     * [L'adressage IP](sysadmin/les-bases/base-du-reseaux/ladressage-ip.md)
     * [La communication](sysadmin/les-bases/base-du-reseaux/la-communication.md)
     * [Les premières commandes](sysadmin/les-bases/base-du-reseaux/les-premieres-commandes.md)
-  * [Systèmes clients Microsoft](sysadmin/les-bases/systemes-clients-microsoft/README.md)
+  * [🪟 Systèmes clients Microsoft](sysadmin/les-bases/systemes-clients-microsoft/README.md)
     * [Initiation VMware Workstation](sysadmin/les-bases/systemes-clients-microsoft/initiation-vmware-workstation.md)
     * [L'écosystème Microsoft](sysadmin/les-bases/systemes-clients-microsoft/lecosysteme-microsoft.md)
     * [Installation Windows Client](sysadmin/les-bases/systemes-clients-microsoft/installation-windows-client.md)
@@ -59,6 +59,18 @@
     * [Gestion du réseau et des partages](sysadmin/les-bases/systemes-clients-microsoft/gestion-du-reseau-et-des-partages.md)
     * [Utilisation à distance](sysadmin/les-bases/systemes-clients-microsoft/utilisation-a-distance.md)
     * [Gestion des pilotes / des imprimantes](sysadmin/les-bases/systemes-clients-microsoft/gestion-des-pilotes-des-imprimantes.md)
+  * [🐧 Distribution GNU/Linux](sysadmin/les-bases/distribution-gnu-linux/README.md)
+    * [Caractéristiques de GNU/Linux](sysadmin/les-bases/distribution-gnu-linux/caracteristiques-de-gnu-linux.md)
+    * [Syntaxe des commandes](sysadmin/les-bases/distribution-gnu-linux/syntaxe-des-commandes.md)
+    * [Connexion à un terminal](sysadmin/les-bases/distribution-gnu-linux/connexion-a-un-terminal.md)
+    * [Le Shell Bash](sysadmin/les-bases/distribution-gnu-linux/le-shell-bash.md)
+    * [Comprendre l'arborescence](sysadmin/les-bases/distribution-gnu-linux/comprendre-larborescence.md)
+    * [Gérer les fichiers](sysadmin/les-bases/distribution-gnu-linux/gerer-les-fichiers.md)
+    * [Les expressions régulières](sysadmin/les-bases/distribution-gnu-linux/les-expressions-regulieres.md)
+    * [Les commandes de recherche](sysadmin/les-bases/distribution-gnu-linux/les-commandes-de-recherche.md)
+    * [L'éditeur de texte vim](sysadmin/les-bases/distribution-gnu-linux/lediteur-de-texte-vim.md)
+    * [Processus, redirections et pipelines](sysadmin/les-bases/distribution-gnu-linux/processus-redirections-et-pipelines.md)
+    * [Archivage et compression](sysadmin/les-bases/distribution-gnu-linux/archivage-et-compression.md)
 
 ## Git
 
@@ -67,7 +79,7 @@
   * [Issues](git/github/issues.md)
   * [Gestion de projet](git/github/gestion-de-projet.md)
 * [Automatisation](git/automatisation/README.md)
-  * [DevOps ? C'est quoi](git/automatisation/devops-cest-quoi/README.md)
+  * [🚧 DevOps ? C'est quoi](git/automatisation/devops-cest-quoi/README.md)
     * [Projets DevOps](git/automatisation/devops-cest-quoi/projets-devops.md)
 
 ## Cybersec
