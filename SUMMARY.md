@@ -47,6 +47,18 @@
     * [L'adressage IP](sysadmin/les-bases/base-du-reseaux/ladressage-ip.md)
     * [La communication](sysadmin/les-bases/base-du-reseaux/la-communication.md)
     * [Les premières commandes](sysadmin/les-bases/base-du-reseaux/les-premieres-commandes.md)
+  * [Systèmes clients Microsoft](sysadmin/les-bases/systemes-clients-microsoft/README.md)
+    * [Initiation VMware Workstation](sysadmin/les-bases/systemes-clients-microsoft/initiation-vmware-workstation.md)
+    * [L'écosystème Microsoft](sysadmin/les-bases/systemes-clients-microsoft/lecosysteme-microsoft.md)
+    * [Installation Windows Client](sysadmin/les-bases/systemes-clients-microsoft/installation-windows-client.md)
+    * [Tour du système Windows](sysadmin/les-bases/systemes-clients-microsoft/tour-du-systeme-windows.md)
+    * [Introduction à PowerShell](sysadmin/les-bases/systemes-clients-microsoft/introduction-a-powershell.md)
+    * [Gestion du stockage](sysadmin/les-bases/systemes-clients-microsoft/gestion-du-stockage.md)
+    * [Gestion des utilisateurs](sysadmin/les-bases/systemes-clients-microsoft/gestion-des-utilisateurs.md)
+    * [Permissions NTFS](sysadmin/les-bases/systemes-clients-microsoft/permissions-ntfs.md)
+    * [Gestion du réseau et des partages](sysadmin/les-bases/systemes-clients-microsoft/gestion-du-reseau-et-des-partages.md)
+    * [Utilisation à distance](sysadmin/les-bases/systemes-clients-microsoft/utilisation-a-distance.md)
+    * [Gestion des pilotes / des imprimantes](sysadmin/les-bases/systemes-clients-microsoft/gestion-des-pilotes-des-imprimantes.md)
 
 ## Git
 
