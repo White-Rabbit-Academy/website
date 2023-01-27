@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/pexels-soumil-kumar-735911.jpg
-coverY: 205
+cover: https://i.pinimg.com/originals/d5/5f/e6/d55fe607439f5d6c58f9569135a161e9.jpg
+coverY: 0
 ---
 
 # 🏠 Home

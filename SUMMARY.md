@@ -27,7 +27,8 @@
 
 ## Cybersec
 
-* [Home](cybersec/soon.md)
+* [Home](cybersec/home/README.md)
+  * [Formations](cybersec/home/formations.md)
 * [Blue Team](cybersec/blue-team/README.md)
   * [Ressources utiles](cybersec/blue-team/ressources-utiles.md)
 * [Purple Team](cybersec/purple-team/README.md)
