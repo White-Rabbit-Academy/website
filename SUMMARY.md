@@ -52,6 +52,7 @@
 * [Home](cybersec/soon.md)
   * [Formations](cybersec/home/formations.md)
   * [CVE](cybersec/home/cve.md)
+  * [CTF](cybersec/home/ctf.md)
 * [Blue Team](cybersec/blue-team/README.md)
   * [Ressources utiles](cybersec/blue-team/ressources-utiles.md)
 * [Purple Team](cybersec/purple-team/README.md)
