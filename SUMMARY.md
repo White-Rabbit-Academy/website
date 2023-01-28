@@ -81,6 +81,7 @@
 * [Automatisation](git/automatisation/README.md)
   * [🚧 DevOps ? C'est quoi](git/automatisation/devops-cest-quoi/README.md)
     * [Projets DevOps](git/automatisation/devops-cest-quoi/projets-devops.md)
+  * [🧰 DevSecOps ? C'est quoi ?](git/automatisation/devsecops-cest-quoi.md)
 
 ## Cybersec
 
