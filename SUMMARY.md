@@ -71,6 +71,17 @@
     * [L'éditeur de texte vim](sysadmin/les-bases/distribution-gnu-linux/lediteur-de-texte-vim.md)
     * [Processus, redirections et pipelines](sysadmin/les-bases/distribution-gnu-linux/processus-redirections-et-pipelines.md)
     * [Archivage et compression](sysadmin/les-bases/distribution-gnu-linux/archivage-et-compression.md)
+  * [🧰 Administration Debian GNU/Linux](sysadmin/les-bases/administration-debian-gnu-linux/README.md)
+    * [Installation d’une distribution Debian](sysadmin/les-bases/administration-debian-gnu-linux/installation-dune-distribution-debian.md)
+    * [Gestion des paquets](sysadmin/les-bases/administration-debian-gnu-linux/gestion-des-paquets.md)
+    * [Gestion du démarrage de Linux](sysadmin/les-bases/administration-debian-gnu-linux/gestion-du-demarrage-de-linux.md)
+    * [Gestion des utilisateurs, des groupes et des mots de passe](sysadmin/les-bases/administration-debian-gnu-linux/gestion-des-utilisateurs-des-groupes-et-des-mots-de-passe.md)
+    * [Gestion des droits utilisateurs](sysadmin/les-bases/administration-debian-gnu-linux/gestion-des-droits-utilisateurs.md)
+    * [Gestion des disques](sysadmin/les-bases/administration-debian-gnu-linux/gestion-des-disques.md)
+    * [Gestion de l'adressage IP](sysadmin/les-bases/administration-debian-gnu-linux/gestion-de-ladressage-ip.md)
+    * [Gestion de la mémoire et des processus](sysadmin/les-bases/administration-debian-gnu-linux/gestion-de-la-memoire-et-des-processus.md)
+    * [Gestion de la planification](sysadmin/les-bases/administration-debian-gnu-linux/gestion-de-la-planification.md)
+    * [Utilisation de la journalisation](sysadmin/les-bases/administration-debian-gnu-linux/utilisation-de-la-journalisation.md)
 
 ## Git
 
