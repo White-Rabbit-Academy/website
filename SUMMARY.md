@@ -82,6 +82,8 @@
     * [Gestion de la mémoire et des processus](sysadmin/les-bases/administration-debian-gnu-linux/gestion-de-la-memoire-et-des-processus.md)
     * [Gestion de la planification](sysadmin/les-bases/administration-debian-gnu-linux/gestion-de-la-planification.md)
     * [Utilisation de la journalisation](sysadmin/les-bases/administration-debian-gnu-linux/utilisation-de-la-journalisation.md)
+* [Les outils](sysadmin/les-outils/README.md)
+  * [qemu](sysadmin/les-outils/qemu.md)
 
 ## Git
 
