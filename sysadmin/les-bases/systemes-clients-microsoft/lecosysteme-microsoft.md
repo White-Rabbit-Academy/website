@@ -46,3 +46,5 @@ Exemples concrets:
 * Microsoft Teams peut avoir des limitations de fonctionnalités pour certaines utilisations, comme la gestion de projet.
 
 Il est important de noter que ces avantages et inconvénients peuvent varier en fonction des besoins spécifiques de chaque entreprise et que les services Microsoft sont des outils très populaire et utilisé pour des usages professionnels, il est donc important d'évaluer les besoins spécifiques de chaque entreprise et de peser les avantages et les inconvénients avant de prendre une décision.
+
+<figure><img src="../../../.gitbook/assets/baby-its-only-micro-when-its-soft-funny-microsoft-follow-9255095.png" alt=""><figcaption></figcaption></figure>

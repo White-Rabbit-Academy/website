@@ -7,3 +7,5 @@ Pour utiliser VMware Workstation, vous devez d'abord télécharger et installer 
 Une fois la machine virtuelle créée, vous pouvez l'allumer et installer le système d'exploitation. Vous pouvez également configurer les réseaux virtuels pour connecter les machines virtuelles entre elles ou à Internet.
 
 En utilisant VMware Workstation, vous pouvez facilement tester des logiciels ou des configurations sur différents systèmes d'exploitation sans avoir à redémarrer votre ordinateur physique. Il est également possible de prendre des instantanés de la machine virtuelle, ce qui vous permet de revenir à une configuration précédente en cas de problème.
+
+<figure><img src="../../../.gitbook/assets/vmware-fdc285439f.jpg" alt=""><figcaption></figcaption></figure>
