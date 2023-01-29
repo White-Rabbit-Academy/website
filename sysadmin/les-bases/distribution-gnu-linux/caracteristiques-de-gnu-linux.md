@@ -14,3 +14,5 @@ Les systèmes d'exploitation GNU/Linux ont plusieurs caractéristiques général
 10. Personnalisation : Les systèmes d'exploitation GNU/Linux offrent une grande flexibilité en matière de personnalisation. Il existe de nombreux thèmes et icônes disponibles pour personnaliser l'apparence du système d'exploitation, et de nombreux outils de personnalisation pour adapter les fonctionnalités et les paramètres selon les préférences de l'utilisateur.
 
 Il est important de noter que ces caractéristiques varient légèrement en fonction de la distribution de GNU/Linux choisie. Il est donc important de consulter les caractéristiques spécifiques de la distribution avant de l'utiliser.
+
+<figure><img src="../../../.gitbook/assets/linux-linux-is-better.gif" alt=""><figcaption></figcaption></figure>
