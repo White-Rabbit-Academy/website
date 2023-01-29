@@ -1,8 +1,3 @@
----
-cover: https://z-rui.github.io/media/qemu-1.png
-coverY: 0
----
-
 # qemu
 
 QEMU est un émulateur de système d'exploitation. Il permet à un ordinateur de simuler un autre système d'exploitation et de l'exécuter comme s'il s'agissait d'un système physique distinct. Cela signifie qu'il est possible d'exécuter des programmes et des systèmes d'exploitation sur un ordinateur qui ne sont pas compatibles avec le matériel ou le système d'exploitation actuel.

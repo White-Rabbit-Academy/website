@@ -85,6 +85,13 @@
   * [📚 Sensibilisation ITIL et Gestion de Parc](sysadmin/les-bases/sensibilisation-itil-et-gestion-de-parc/README.md)
     * [ITIL](sysadmin/les-bases/sensibilisation-itil-et-gestion-de-parc/itil.md)
     * [GLPI](sysadmin/les-bases/sensibilisation-itil-et-gestion-de-parc/glpi.md)
+  * [📡 Réseaux - suite](sysadmin/les-bases/reseaux-suite/README.md)
+    * [Les équipements de couche 2](sysadmin/les-bases/reseaux-suite/les-equipements-de-couche-2.md)
+    * [Switching](sysadmin/les-bases/reseaux-suite/switching.md)
+    * [Les équipements de couche 3](sysadmin/les-bases/reseaux-suite/les-equipements-de-couche-3.md)
+    * [Routage statique](sysadmin/les-bases/reseaux-suite/routage-statique.md)
+    * [ACL de routeur](sysadmin/les-bases/reseaux-suite/acl-de-routeur.md)
+    * [VLAN](sysadmin/les-bases/reseaux-suite/vlan.md)
 * [Les outils](sysadmin/les-outils/README.md)
   * [qemu](sysadmin/les-outils/qemu.md)
 
