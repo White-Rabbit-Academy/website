@@ -92,8 +92,18 @@
     * [Routage statique](sysadmin/les-bases/reseaux-suite/routage-statique.md)
     * [ACL de routeur](sysadmin/les-bases/reseaux-suite/acl-de-routeur.md)
     * [VLAN](sysadmin/les-bases/reseaux-suite/vlan.md)
+  * [🪟 Services réseaux sur Microsoft](sysadmin/les-bases/services-reseaux-sur-microsoft/README.md)
+    * [Windows serveur](sysadmin/les-bases/services-reseaux-sur-microsoft/windows-serveur.md)
+    * [Gestion des disques dur](sysadmin/les-bases/services-reseaux-sur-microsoft/gestion-des-disques-dur.md)
+    * [Gestion des utilisateurs et des groupes dans la base SAM](sysadmin/les-bases/services-reseaux-sur-microsoft/gestion-des-utilisateurs-et-des-groupes-dans-la-base-sam.md)
+    * [Gestion du service d'annuaire ADDS](sysadmin/les-bases/services-reseaux-sur-microsoft/gestion-du-service-dannuaire-adds.md)
+    * [Gestion des stratégies de groupe](sysadmin/les-bases/services-reseaux-sur-microsoft/gestion-des-strategies-de-groupe.md)
+    * [Routage / NAT](sysadmin/les-bases/services-reseaux-sur-microsoft/routage-nat.md)
+    * [DHCP](sysadmin/les-bases/services-reseaux-sur-microsoft/dhcp.md)
+    * [DNS](sysadmin/les-bases/services-reseaux-sur-microsoft/dns.md)
 * [Les outils](sysadmin/les-outils/README.md)
   * [qemu](sysadmin/les-outils/qemu.md)
+* [Téléphonie](sysadmin/telephonie.md)
 
 ## Git
 
