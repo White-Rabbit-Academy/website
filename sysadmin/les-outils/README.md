@@ -6,4 +6,6 @@ coverY: 0
 
 # Les outils
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="qemu.md">qemu.md</a></td></tr></tbody></table>
+Un sysadmin a besoin d'outils pour effectuer son travail efficacement. Les outils peuvent inclure des logiciels de surveillance des systèmes, de gestion des serveurs, de sauvegarde de données, de déploiement de logiciels, de résolution de problèmes, etc. Ils aident les sysadmins à surveiller les performances, à diagnostiquer et à résoudre les problèmes informatiques, à automatiser les tâches répétitives, etc. Les outils sont essentiels pour que les sysadmins puissent garantir la disponibilité, la sécurité et la fiabilité des systèmes informatiques.
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="virtualisation/qemu.md">qemu.md</a></td></tr></tbody></table>
