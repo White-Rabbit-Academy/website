@@ -11,3 +11,25 @@ Il existe plusieurs unités informatiques qui sont essentielles pour construire 
 7. Boîtier (Case) : C'est l'enveloppe physique qui contient tous les composants de l'ordinateur. Il protège les composants de la poussière et des chocs, et permet d'installer les différents périphériques.
 
 Il existe également d'autres unités informatiques comme les périphériques d'entrée et de sortie (clavier, souris, écran, etc.), les dispositifs de stockage amovibles (clés USB, disques durs externes, etc.), les réseaux (cartes réseau, modems, routeurs, etc.) et les périphériques de saisie (scanners, appareils photo, etc.).
+
+<figure><img src="../../../.gitbook/assets/ge-force-garage-ge-force.gif" alt=""><figcaption></figcaption></figure>
+
+## Quizz
+
+{% tabs %}
+{% tab title="Quetions" %}
+1. Qu'est-ce qu'une unité centrale de traitement (CPU) ?
+2. Qu'est-ce qu'une carte mère ?
+3. Qu'est-ce qu'une mémoire vive (RAM) ?&#x20;
+4. Qu'est-ce qu'un disque dur (HDD) ?
+5. Qu'est-ce qu'une carte graphique (GPU) ?
+{% endtab %}
+
+{% tab title="Réponses" %}
+1. La CPU est le cerveau de l'ordinateur, responsable de l'exécution des instructions et des calculs.
+2. La carte mère est le composant principal d'un ordinateur qui relie tous les autres composants et permet la communication entre eux.
+3. La RAM est un type de mémoire temporaire utilisé par l'ordinateur pour stocker les données et les instructions en cours d'exécution.
+4. Un disque dur est un composant de stockage de masse utilisé pour stocker les données et les programmes sur un ordinateur.
+5. La GPU est un composant dédié pour traiter les tâches graphiques intensives, telles que les jeux et la vidéo.
+{% endtab %}
+{% endtabs %}

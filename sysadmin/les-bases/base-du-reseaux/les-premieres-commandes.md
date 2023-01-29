@@ -29,3 +29,5 @@ coverY: 0
 3. Utilisez la commande grep pour rechercher un mot spécifique dans un fichier ou un répertoire. Par exemple, pour rechercher toutes les occurrences de "mot" dans un fichier nommé "fichier.txt", tapez "grep "mot" fichier.txt".
 4. Utilisez la commande chmod pour modifier les permissions d'un fichier ou d'un répertoire. Par exemple, pour donner les permissions en écriture à tous les utilisateurs pour un fichier nommé "fichier.txt", tapez "chmod 666 fichier.txt".
 5. Utilisez la commande find pour rechercher des fichiers ou des répertoires en fonction de certains critères. Par exemple, pour trouver tous les fichiers qui ont été modifiés dans les 7 derniers jours, tapez "find / -type f -mtime -7".
+
+<figure><img src="../../../.gitbook/assets/ascii-drone.gif" alt=""><figcaption></figcaption></figure>

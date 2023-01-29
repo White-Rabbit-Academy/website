@@ -92,3 +92,25 @@ Un exemple concret de calcul de masque de sous-réseau est :
 * Si vous avez un réseau IPV4 de classe C avec l'adresse IP 192.168.1.0 et que vous voulez diviser ce réseau en 4 sous-réseaux, vous pouvez utiliser un outil de calcul de sous-réseau pour déterminer que le masque de sous-réseau approprié est 255.255.255.192. Cela signifie que les deux premiers octets (192.168) définissent la partie de réseau de l'adresse IP, tandis que les deux derniers octets (1.0) définissent la partie hôte de l'adresse IP. Avec ce masque de sous-réseau, chaque sous-réseau aura 62 adresses valides.
 
 Il est important de noter que le calcul de masque de sous-réseau est un élément fondamental pour la configuration et la gestion des réseaux informatiques, en particulier pour la segmentation des réseaux et la limitation des accès. Il est donc important de bien comprendre le fonctionnement et l'utilisation des masques de sous-réseau pour assurer la sécurité et la performance des réseaux informatiques.
+
+<figure><img src="../../../.gitbook/assets/adsl-cat-is-connecting-acquiring-i-p-address-loading-loading-2671413.png" alt=""><figcaption></figcaption></figure>
+
+## Quizz
+
+{% tabs %}
+{% tab title="Questions" %}
+1. Qu'est-ce qu'une adresse IP ?
+2. Quel est le format standard d'une adresse IP version 4 ?
+3. Quel est le rôle des masques de sous-réseau dans l'adressage IP ?
+4. Qu'est-ce qu'une adresse IP privée ?
+5. Qu'est-ce qu'une adresse IP publique ?
+{% endtab %}
+
+{% tab title="Réponses" %}
+1. Une adresse IP est une série unique de nombres utilisée pour identifier un ordinateur sur un réseau informatique.
+2. Une adresse IP version 4 est représentée par 4 nombres séparés par des points, allant de 0 à 255, tels que 192.168.0.1.
+3. Les masques de sous-réseau permettent de déterminer quelle partie d'une adresse IP représente le réseau et quelle partie représente l'hôte sur ce réseau.
+4. Une adresse IP privée est une adresse IP qui n'est pas accessible sur Internet et qui est réservée pour une utilisation interne dans les réseaux privés.
+5. Une adresse IP publique est une adresse IP accessible sur Internet et associée à un ordinateur ou un réseau connecté à Internet.
+{% endtab %}
+{% endtabs %}

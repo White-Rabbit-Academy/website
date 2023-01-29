@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Virtualisation
+# 🗃 Virtualisation
 
 Virtualisation de serveur : C'est une technique qui permet d'exécuter plusieurs systèmes d'exploitation (OS) et leurs applications sur un seul serveur physique.
 

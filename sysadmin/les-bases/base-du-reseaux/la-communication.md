@@ -13,3 +13,5 @@ Les topologies de réseau décrivent la façon dont les dispositifs sont connect
 Les périphériques réseau sont les composants matériels qui permettent la communication sur un réseau. Les périphériques couramment utilisés sont les commutateurs, les routeurs, les points d'accès sans fil et les modems.
 
 En somme, la communication réseau informatique est un élément crucial pour la connectivité et l'échange de données entre les différents dispositifs d'un réseau, les protocoles, les adresses IP, les ports, les topologies et les périphériques réseau étant des éléments clés pour garantir une communication efficace et sécurisée.
+
+<figure><img src="../../../.gitbook/assets/smg4-sonic.gif" alt=""><figcaption></figcaption></figure>

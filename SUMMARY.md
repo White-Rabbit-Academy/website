@@ -158,7 +158,7 @@
     * [Service RDS](sysadmin/les-bases/services-transverses-microsoft/service-rds.md)
     * [Serveur de déploiement WDS](sysadmin/les-bases/services-transverses-microsoft/serveur-de-deploiement-wds.md)
 * [Les outils](sysadmin/les-outils/README.md)
-  * [Virtualisation](sysadmin/les-outils/virtualisation/README.md)
+  * [🗃 Virtualisation](sysadmin/les-outils/virtualisation/README.md)
     * [qemu](sysadmin/les-outils/virtualisation/qemu.md)
 * [Téléphonie](sysadmin/telephonie.md)
 
