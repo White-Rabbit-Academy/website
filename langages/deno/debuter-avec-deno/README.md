@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/ef85065739894b2f2f3f19cf02597198.jpg
 coverY: 0
 ---
 
-# 👑 Bien débuter
+# 👑 Débuter avec Deno
 
 Il est important de débuter avec les bases en utilisant Deno car cela vous permettra de comprendre comment fonctionne le runtime et comment utiliser les différentes fonctionnalités qu'il offre.
 
@@ -20,3 +20,5 @@ Débutant dans le domaine du Javascript/Typescript. Commence par lire ce cours 
 {% content-ref url="../../../programmation/web/les-bases-du-web/japprends-le-js/" %}
 [japprends-le-js](../../../programmation/web/les-bases-du-web/japprends-le-js/)
 {% endcontent-ref %}
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="deno-run.md">deno-run.md</a></td></tr><tr><td></td><td><a href="deno-official-module.md">deno-official-module.md</a></td></tr><tr><td></td><td><a href="deno-third-party-module.md">deno-third-party-module.md</a></td></tr><tr><td></td><td><a href="deno-en-mode-dev.md">deno-en-mode-dev.md</a></td></tr></tbody></table>
