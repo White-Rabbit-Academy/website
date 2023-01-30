@@ -7,7 +7,3 @@ Il existe plusieurs moyens de se connecter à un terminal sous Linux, voici quel
 3. Connexion à un terminal sur un serveur : Si vous utilisez un ordinateur distant pour héberger vos applications, vous pouvez utiliser un outil de gestion de serveur comme "putty" pour vous connecter à un terminal sur le serveur. Pour cela, vous devez également connaître l'adresse IP ou le nom d'hôte du serveur et avoir les informations d'identification nécessaires pour vous connecter.
 
 Il est important de noter que pour se connecter à un terminal à distance ou sur un serveur, vous devez avoir les autorisations et les informations d'identification nécessaires pour accéder à distance.
-
-{% content-ref url="connexion-a-un-terminal/installer-un-serveur-ssh.md" %}
-[installer-un-serveur-ssh.md](connexion-a-un-terminal/installer-un-serveur-ssh.md)
-{% endcontent-ref %}

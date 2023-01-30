@@ -24,7 +24,7 @@ La gestion des imprimantes sous Windows comprend l'installation, la configuratio
 
 Il est également possible de gérer les imprimantes à distance en utilisant PowerShell, en créant des scripts pour installer, configurer, maintenir et supprimer des imprimantes sur des ordinateurs à distance.
 
-{% content-ref url="gestion-des-pilotes-des-imprimantes/serveur-dimpression.md" %}
-[serveur-dimpression.md](gestion-des-pilotes-des-imprimantes/serveur-dimpression.md)
+{% content-ref url="serveur-dimpression.md" %}
+[serveur-dimpression.md](serveur-dimpression.md)
 {% endcontent-ref %}
 

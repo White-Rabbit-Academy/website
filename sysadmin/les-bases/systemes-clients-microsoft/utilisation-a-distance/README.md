@@ -9,6 +9,6 @@ Il existe plusieurs méthodes pour accéder à distance à un ordinateur Windows
 
 En résumé, l'utilisation à distance d'un ordinateur Windows est un moyen pratique pour accéder à des fichiers, des applications et des paramètres sur un ordinateur distant. Il est important de choisir la méthode qui convient le mieux à vos besoins et de s'assurer que la sécurité est gérée de manière appropriée.
 
-{% content-ref url="utilisation-a-distance/rdp-tips-et-astuces.md" %}
-[rdp-tips-et-astuces.md](utilisation-a-distance/rdp-tips-et-astuces.md)
+{% content-ref url="rdp-tips-et-astuces.md" %}
+[rdp-tips-et-astuces.md](rdp-tips-et-astuces.md)
 {% endcontent-ref %}

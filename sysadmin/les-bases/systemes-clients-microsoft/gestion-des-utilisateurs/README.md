@@ -15,6 +15,6 @@ Pour gérer les utilisateurs sous Windows, vous pouvez utiliser les outils de ge
 
 Il est important de noter que pour gérer les utilisateurs dans un environnement professionnel, il est essentiel d'avoir une bonne connaissance des politiques de sécurité et des normes de l'entreprise, ainsi que de bien comprendre les besoins de l'entreprise en matière de gestion des utilisateurs.
 
-{% content-ref url="gestion-des-utilisateurs/active-directory-introduction.md" %}
-[active-directory-introduction.md](gestion-des-utilisateurs/active-directory-introduction.md)
+{% content-ref url="active-directory-introduction.md" %}
+[active-directory-introduction.md](active-directory-introduction.md)
 {% endcontent-ref %}
