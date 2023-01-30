@@ -8,7 +8,7 @@ coverY: 0
 
 <figure><img src="../../../.gitbook/assets/say-what-meme.jpg" alt=""><figcaption></figcaption></figure>
 
-todoPowerShell est un interpréteur de ligne de commande développé par Microsoft pour les systèmes d'exploitation Windows. Il permet aux utilisateurs de lancer des commandes et de créer des scripts pour automatiser des tâches courantes telles que la gestion des utilisateurs, des ordinateurs et des services réseau.
+PowerShell est un interpréteur de ligne de commande développé par Microsoft pour les systèmes d'exploitation Windows. Il permet aux utilisateurs de lancer des commandes et de créer des scripts pour automatiser des tâches courantes telles que la gestion des utilisateurs, des ordinateurs et des services réseau.
 
 Voici quelques exemples de commandes de base de PowerShell :
 
@@ -31,3 +31,7 @@ Apprendre à utiliser PowerShell est utile, car cela permet aux administrateurs 
 5. Créer un script : Utilisez PowerShell pour créer un script qui automatise une tâche courante, comme la sauvegarde de fichiers importants sur un disque réseau ou l'envoi d'un e-mail automatisé.
 
 Notez qu'il est important de faire les exercices dans un environnement de test pour eviter tout impact sur un environnement de production.
+
+{% hint style="info" %}
+Powershell en détail, c'est pour plus tard !
+{% endhint %}

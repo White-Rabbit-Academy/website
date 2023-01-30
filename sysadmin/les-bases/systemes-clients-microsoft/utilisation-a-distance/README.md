@@ -8,3 +8,7 @@ Il existe plusieurs méthodes pour accéder à distance à un ordinateur Windows
 4. Remote Desktop Gateway : Il s'agit d'un service de Microsoft qui permet à un utilisateur de se connecter à un ordinateur distant via une connexion sécurisée via Internet. Il est souvent utilisé dans les entreprises pour permettre aux employés de se connecter à des ordinateurs de bureau à distance.
 
 En résumé, l'utilisation à distance d'un ordinateur Windows est un moyen pratique pour accéder à des fichiers, des applications et des paramètres sur un ordinateur distant. Il est important de choisir la méthode qui convient le mieux à vos besoins et de s'assurer que la sécurité est gérée de manière appropriée.
+
+{% content-ref url="rdp-tips-et-astuces.md" %}
+[rdp-tips-et-astuces.md](rdp-tips-et-astuces.md)
+{% endcontent-ref %}

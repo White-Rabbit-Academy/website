@@ -1,0 +1,7 @@
+# Les types de disques de stockage
+
+1. Disques durs (HDD): technologie de stockage magnétique, historique depuis les années 1950, avantages: abordable, de grande capacité, largement disponible; inconvénients: lents par rapport aux autres options, plus sensibles aux chocs et aux défaillances mécaniques.
+2. Disques à état solide (SSD): technologie de stockage à semi-conducteurs, historique depuis les années 2000, avantages: plus rapides que les disques durs, plus fiables, moins sensibles aux chocs et aux défaillances mécaniques; inconvénients: coûteux, capacité de stockage plus limitée.
+3. Disques hybrides (HHDD): combinent les avantages des disques durs et des disques SSD, historique depuis les années 2010, avantages: vitesse améliorée par rapport aux disques durs, capacité de stockage élevée, prix abordable; inconvénients: toujours plus coûteux que les disques durs standard.
+4. Disques à bande (Tape Drive): technologie de stockage en bande, historique depuis les années 1950, avantages: capacité de stockage élevée, coûts de stockage à long terme faibles; inconvénients: lents, difficiles à gérer et à sauvegarder, en voie de disparition en raison de la popularité des options numériques.
+5. Disques optiques (CD, DVD, Blu-Ray): technologie de stockage optique, historique depuis les années 1980, avantages: capacité de stockage décente, facile à lire avec un lecteur de CD/DVD standard; inconvénients: capacité de stockage limitée, en voie de disparition en raison de la popularité des options numériques.

@@ -14,3 +14,7 @@ Pour gérer les utilisateurs sous Windows, vous pouvez utiliser les outils de ge
 4. PowerShell : Il permet de gérer les utilisateurs et les groupes d'utilisateurs en utilisant des commandes PowerShell.
 
 Il est important de noter que pour gérer les utilisateurs dans un environnement professionnel, il est essentiel d'avoir une bonne connaissance des politiques de sécurité et des normes de l'entreprise, ainsi que de bien comprendre les besoins de l'entreprise en matière de gestion des utilisateurs.
+
+{% content-ref url="active-directory-introduction.md" %}
+[active-directory-introduction.md](active-directory-introduction.md)
+{% endcontent-ref %}

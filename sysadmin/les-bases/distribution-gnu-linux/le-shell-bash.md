@@ -22,3 +22,17 @@ En somme, Bash est un shell incontournable pour les systèmes d'exploitation bas
 ## Utilisation
 
 Bash est un interpréteur de commandes qui vous permet d'exécuter des commandes sur votre système d'exploitation. Les commandes mentionnées précédemment, telles que "pwd" et "ls", sont des exemples de commandes que vous pouvez exécuter en utilisant Bash. En utilisant ces commandes de base, vous pouvez naviguer dans les répertoires de votre système, lister les fichiers et dossiers, et effectuer d'autres tâches courantes. En utilisant Bash, vous pouvez également combiner des commandes pour automatiser des tâches plus complexes ou écrire des scripts pour automatiser des tâches répétitives. Il est un outil puissant pour les utilisateurs et les administrateurs système pour gérer leur système d'exploitation.
+
+## Pro tips
+
+Voici quelques astuces pour travailler avec le shell bash:
+
+1. Utilisez les flèches pour naviguer dans l'historique des commandes: Vous pouvez utiliser les flèches vers le haut et vers le bas pour naviguer dans l'historique des commandes précédemment entrées.
+2. TAB: Vous pouvez utiliser la touche TAB pour compléter automatiquement les noms de fichiers et de répertoires.
+3. Utilisez les variables d'environnement: Vous pouvez définir et utiliser des variables d'environnement pour stocker des valeurs utiles telles que les chemins d'accès aux fichiers et répertoires.
+4. La substitution de commande: Vous pouvez utiliser la substitution de commande pour exécuter une commande et utiliser son résultat comme entrée pour une autre commande. Par exemple, vous pouvez utiliser la substitution de commande `$(ls)` pour lister les fichiers dans le répertoire actuel.
+5. Les alias: Vous pouvez créer des alias pour les commandes souvent utilisées afin de les exécuter plus rapidement et de manière plus conviviale.
+6. Les boucles: Vous pouvez utiliser des boucles pour automatiser des tâches répétitives telles que la lecture d'une liste de fichiers et leur traitement.
+7. Les fonctions: Vous pouvez créer des fonctions pour organiser et regrouper des tâches répétitives en un seul ensemble de commandes.
+
+Ces astuces sont utiles pour améliorer votre productivité et votre expérience de travail avec le shell bash. Il est toujours une bonne idée de consulter la documentation et de pratiquer régulièrement pour devenir plus compétent dans l'utilisation du shell bash.
