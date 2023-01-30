@@ -1,7 +1,11 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [📔 Formations](formations.md)
+* [📔 Formations](formations/README.md)
+  * [🌐 Sysadmin](formations/sysadmin/README.md)
+    * [Bac + 2](formations/sysadmin/bac-+-2.md)
+  * [💻 Développeur](formations/developpeur.md)
+  * [🛡 Cybersécurité](formations/cybersecurite.md)
 
 ## Programmation
 
@@ -37,8 +41,8 @@
     * [third party module](script/deno/bien-debuter/third-party-module.md)
     * [en mode dev](script/deno/bien-debuter/en-mode-dev.md)
 * [HTML - CSS](langages/html-css/README.md)
-  * [📓 HTLM CSS les bases](langages/html-css/htlm-css-les-bases.md)
-  * [💻 Mon premier site web](langages/html-css/mon-premier-site-web.md)
+  * [📓 HTLM CSS les bases](programmation/web/les-bases-du-web/mon-premier-site-web/apprend-le-html-css.md)
+  * [💻 Mon premier site web](programmation/web/les-bases-du-web/mon-premier-site-web/mon-premier-site-web.md)
 
 ## Sysadmin
 
@@ -175,10 +179,10 @@
   * [🪟 Services transverses Microsoft](sysadmin/les-bases/services-transverses-microsoft/README.md)
     * [Service RDS](sysadmin/les-bases/services-transverses-microsoft/service-rds.md)
     * [Serveur de déploiement WDS](sysadmin/les-bases/services-transverses-microsoft/serveur-de-deploiement-wds.md)
+* [Téléphonie](sysadmin/telephonie.md)
 * [Les outils](sysadmin/les-outils/README.md)
   * [🗃 Virtualisation](sysadmin/les-outils/virtualisation/README.md)
     * [qemu](sysadmin/les-outils/virtualisation/qemu.md)
-* [Téléphonie](sysadmin/telephonie.md)
 
 ## Git
 

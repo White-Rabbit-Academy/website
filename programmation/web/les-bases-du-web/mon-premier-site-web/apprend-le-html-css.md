@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/pexels-designecologist-1779487.jpg
+cover: ../../../../.gitbook/assets/pexels-designecologist-1779487.jpg
 coverY: 73
 ---
 
