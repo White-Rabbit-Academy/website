@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# en mode dev
+# Deno en mode dev
 
 Voici 10 projets de petite taille qui pourraient vous aider à apprendre à manipuler Deno :
 

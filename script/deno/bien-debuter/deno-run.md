@@ -1,4 +1,4 @@
-# deno run
+# Deno - run
 
 La commande "deno run" est utilisée pour exécuter un script Deno. Les arguments les plus couramment utilisés avec cette commande sont les suivants :
 

@@ -1,4 +1,4 @@
-# official module
+# Deno official module
 
 Il existe plusieurs moyens pour en savoir plus sur les modules officiels de Deno :
 

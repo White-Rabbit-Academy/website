@@ -21,4 +21,4 @@ Débutant dans le domaine du Javascript/Typescript. Commence par lire ce cours 
 [japprends-le-js](../../../programmation/web/les-bases-du-web/japprends-le-js/)
 {% endcontent-ref %}
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="deno-run.md">deno-run.md</a></td></tr><tr><td></td><td><a href="deno-official-module.md">deno-official-module.md</a></td></tr><tr><td></td><td><a href="deno-third-party-module.md">deno-third-party-module.md</a></td></tr><tr><td></td><td><a href="deno-en-mode-dev.md">deno-en-mode-dev.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="deno-run.md">deno-run.md</a></td></tr><tr><td><a href="official-module.md">official-module.md</a></td></tr><tr><td><a href="third-party-module.md">third-party-module.md</a></td></tr><tr><td><a href="en-mode-dev.md">en-mode-dev.md</a></td></tr></tbody></table>
