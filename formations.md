@@ -20,4 +20,4 @@ En suivant une formation chez White Rabbit Academy, vous pourrez développer vos
 Les formations sont des équivalents, aucune délivrance de diplôme n'est incluse. Cette section de formation permet de savoir où on en est :)
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="developpeur.md">developpeur.md</a></td></tr><tr><td><a href="cybersecurite.md">cybersecurite.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="formations/sysadmin/">sysadmin</a></td></tr><tr><td><a href="formations/developpeur.md">developpeur.md</a></td></tr><tr><td><a href="formations/cybersecurite.md">cybersecurite.md</a></td></tr></tbody></table>

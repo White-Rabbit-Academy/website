@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [📔 Formations](formations/README.md)
+* [📔 Formations](formations.md)
   * [🌐 Sysadmin](formations/sysadmin/README.md)
     * [Bac + 2](formations/sysadmin/bac-+-2.md)
   * [💻 Développeur](formations/developpeur.md)
