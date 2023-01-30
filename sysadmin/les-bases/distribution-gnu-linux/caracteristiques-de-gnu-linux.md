@@ -15,8 +15,8 @@ Les systèmes d'exploitation GNU/Linux ont plusieurs caractéristiques général
 
 Il est important de noter que ces caractéristiques varient légèrement en fonction de la distribution de GNU/Linux choisie. Il est donc important de consulter les caractéristiques spécifiques de la distribution avant de l'utiliser.
 
-<figure><img src="../../../../.gitbook/assets/linux-linux-is-better.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/linux-linux-is-better.gif" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="pourquoi-linux.md" %}
-[pourquoi-linux.md](pourquoi-linux.md)
+{% content-ref url="caracteristiques-de-gnu-linux/pourquoi-linux.md" %}
+[pourquoi-linux.md](caracteristiques-de-gnu-linux/pourquoi-linux.md)
 {% endcontent-ref %}

@@ -12,5 +12,5 @@ Voici quelques conseils et astuces pour gérer le stockage sous Windows :
 
 ## Pour les experts
 
-<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="une-partition-cest-quoi.md">une-partition-cest-quoi.md</a></td></tr><tr><td><a href="les-types-de-disques-de-stockage.md">les-types-de-disques-de-stockage.md</a></td></tr><tr><td><a href="gestion-de-la-sauvegarde.md">gestion-de-la-sauvegarde.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="gestion-du-stockage/une-partition-cest-quoi.md">une-partition-cest-quoi.md</a></td></tr><tr><td><a href="gestion-du-stockage/les-types-de-disques-de-stockage.md">les-types-de-disques-de-stockage.md</a></td></tr><tr><td><a href="gestion-du-stockage/gestion-de-la-sauvegarde.md">gestion-de-la-sauvegarde.md</a></td></tr></tbody></table>
 

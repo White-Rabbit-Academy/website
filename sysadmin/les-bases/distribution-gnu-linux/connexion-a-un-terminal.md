@@ -8,6 +8,6 @@ Il existe plusieurs moyens de se connecter à un terminal sous Linux, voici quel
 
 Il est important de noter que pour se connecter à un terminal à distance ou sur un serveur, vous devez avoir les autorisations et les informations d'identification nécessaires pour accéder à distance.
 
-{% content-ref url="installer-un-serveur-ssh.md" %}
-[installer-un-serveur-ssh.md](installer-un-serveur-ssh.md)
+{% content-ref url="connexion-a-un-terminal/installer-un-serveur-ssh.md" %}
+[installer-un-serveur-ssh.md](connexion-a-un-terminal/installer-un-serveur-ssh.md)
 {% endcontent-ref %}

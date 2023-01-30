@@ -33,8 +33,8 @@ Il est important de noter que les permissions NTFS sont cumulatives, ce qui sign
 7. Créez un nouveau fichier dans le sous-dossier "sous-dossier 2" et donnez-lui un nom, par exemple "fichier 3". Ensuite, configurez des permissions spécifiques pour ce fichier qui diffèrent des permissions du dossier parent. Vérifiez que les permissions spécifiques sont appliquées uniquement à ce fichier et non au reste des fichiers dans le dossier parent.
 8. Créez un nouveau groupe d'utilisateurs et ajoutez des utilisateurs à ce groupe. Ensuite, créez un nouveau dossier sur votre ordinateur et donnez-lui un nom, par exemple "Exercice NTFS 3". Enfin, attribuez des permissions au groupe d'utilisateurs au lieu d'attribuer des permissions à chaque utilisateur individuellement. Vérifiez que les utilisateurs dans le groupe ont les permissions appropriées pour accéder aux fichiers et dossiers dans le dossier.
 
-<figure><img src="../../../../.gitbook/assets/user-id-like-to-read-joke-txt-ntfs-where-is-the-26264118.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/user-id-like-to-read-joke-txt-ntfs-where-is-the-26264118.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="les-types-de-partitions.md" %}
-[les-types-de-partitions.md](les-types-de-partitions.md)
+{% content-ref url="permissions-ntfs/les-types-de-partitions.md" %}
+[les-types-de-partitions.md](permissions-ntfs/les-types-de-partitions.md)
 {% endcontent-ref %}

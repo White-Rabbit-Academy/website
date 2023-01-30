@@ -34,6 +34,6 @@ whereis python
 
 Il existe également d'autres commandes utiles pour effectuer des recherches sur Linux, comme `ack`, `ag` ou `rg`, qui sont des alternatives plus performantes et plus configurables de `grep`
 
-{% content-ref url="ripgrep.md" %}
-[ripgrep.md](ripgrep.md)
+{% content-ref url="les-commandes-de-recherche/ripgrep.md" %}
+[ripgrep.md](les-commandes-de-recherche/ripgrep.md)
 {% endcontent-ref %}

@@ -79,6 +79,6 @@ Il est important de noter que ces exemples sont très simplifiés et peuvent ne 
 Vas sur [https://www.regextester.com/](https://www.regextester.com/) pour tester tes regex :thumbsup:
 {% endhint %}
 
-{% content-ref url="creer-des-expressions-regulieres.md" %}
-[creer-des-expressions-regulieres.md](creer-des-expressions-regulieres.md)
+{% content-ref url="les-expressions-regulieres/creer-des-expressions-regulieres.md" %}
+[creer-des-expressions-regulieres.md](les-expressions-regulieres/creer-des-expressions-regulieres.md)
 {% endcontent-ref %}
