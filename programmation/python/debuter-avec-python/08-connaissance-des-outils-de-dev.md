@@ -1,4 +1,4 @@
-# 08 - Connaissance des outils de dev
+# Python Connaissance des outils de dev
 
 Le point 8 concerne la connaissance des différents outils et environnements de développement utilisés pour écrire, tester et déployer des programmes écrits en Python. Il est important de comprendre les différentes options disponibles et de savoir comment utiliser les outils les plus populaires pour maximiser votre efficacité en tant que développeur.
 

@@ -1,4 +1,4 @@
-# 02 - Variables
+# Javascript Variables
 
 ## Variables : Comment déclarer et affecter des valeurs à des variables en JavaScript.
 

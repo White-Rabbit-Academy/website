@@ -1,4 +1,4 @@
-# 07 - Algorithmie
+# Python Algorithmie
 
 L'algorithmie est l'ensemble des techniques permettant de résoudre un problème de manière efficace et optimale. Il existe différents types d'algorithmes, tels que les algorithmes de tri, de recherche, de parcours de graphe, etc.
 

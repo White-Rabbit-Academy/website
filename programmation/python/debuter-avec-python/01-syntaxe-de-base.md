@@ -1,4 +1,4 @@
-# 01 - Syntaxe de base
+# Python Syntaxe de base
 
 La syntaxe de base de Python est l'ensemble des règles et des conventions qui définissent la structure des instructions dans un programme Python. Il est important de comprendre cette syntaxe pour être en mesure d'écrire des programmes efficaces et faciles à lire.
 

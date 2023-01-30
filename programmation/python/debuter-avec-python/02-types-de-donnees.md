@@ -1,4 +1,4 @@
-# 02 - Types de données
+# Python Types de données
 
 Il est important de comprendre les différentes options disponibles pour stocker et manipuler des données dans vos programmes.
 

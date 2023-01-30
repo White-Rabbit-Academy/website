@@ -1,4 +1,4 @@
-# 07 - Tableaux et objets
+# Javascript Tableaux et objets
 
 ## Tableaux et objets : Comment utiliser les tableaux et les objets pour stocker et manipuler des données en JavaScript.
 

@@ -1,4 +1,4 @@
-# 06 - Pratique
+# Python Pratique
 
 La pratique est l'un des éléments clés pour devenir un développeur expérimenté en Python. Voici quelques exemples d'exercices que vous pouvez essayer pour améliorer vos compétences en Python :
 

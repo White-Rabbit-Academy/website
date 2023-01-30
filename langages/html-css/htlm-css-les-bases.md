@@ -1,9 +1,9 @@
 ---
-cover: ../../../../.gitbook/assets/pexels-designecologist-1779487.jpg
+cover: ../../.gitbook/assets/pexels-designecologist-1779487.jpg
 coverY: 73
 ---
 
-# Apprend le html css
+# 📓 HTLM CSS les bases
 
 ## Les débuts dans le WEB
 

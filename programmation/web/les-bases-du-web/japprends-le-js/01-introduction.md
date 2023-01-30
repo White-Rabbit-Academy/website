@@ -1,4 +1,4 @@
-# 01 - Introduction
+# Javascript Introduction
 
 ## Introduction : Qu'est-ce que JavaScript et comment est-il utilisé dans le développement web.
 

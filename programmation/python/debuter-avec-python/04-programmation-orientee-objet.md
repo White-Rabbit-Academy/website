@@ -1,4 +1,4 @@
-# 04 - Programmation Orientée Objet
+# Python Programmation Orientée Objet
 
 La programmation orientée objet (POO) est un paradigme de programmation qui permet de modéliser des objets du monde réel dans un programme informatique. Les objets sont des instances de classes, qui définissent leur état (attributs) et leur comportement (méthodes). En utilisant la POO, on peut organiser le code de manière plus structurée, réutiliser des morceaux de code, et simuler des interactions entre les objets.
 

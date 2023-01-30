@@ -1,4 +1,4 @@
-# 08 - DOM
+# Javascript DOM
 
 ## DOM : Comment accéder et manipuler des éléments HTML à l'aide de JavaScript.
 

@@ -1,4 +1,4 @@
-# 05 - Boucles
+# Javascript Boucles
 
 ## Boucles : Comment utiliser les boucles for et while pour répéter des actions dans votre code.
 

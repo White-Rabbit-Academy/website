@@ -17,6 +17,6 @@ En somme, en débutant avec les bases en utilisant Deno, vous vous donnerez les 
 
 Débutant dans le domaine du Javascript/Typescript. Commence par lire ce cours :&#x20;
 
-{% content-ref url="../../javascript/javascript-decouverte/" %}
-[javascript-decouverte](../../javascript/javascript-decouverte/)
+{% content-ref url="../../../programmation/web/les-bases-du-web/japprends-le-js/" %}
+[japprends-le-js](../../../programmation/web/les-bases-du-web/japprends-le-js/)
 {% endcontent-ref %}

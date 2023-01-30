@@ -1,4 +1,4 @@
-# 06 - Fonctions
+# Javascript Fonctions
 
 ## Fonctions : Comment déclarer et utiliser des fonctions en JavaScript.
 

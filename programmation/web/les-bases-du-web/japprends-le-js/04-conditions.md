@@ -1,4 +1,4 @@
-# 04 - Conditions
+# Javascript Conditions
 
 ## Conditions : Comment utiliser des instructions if-else et switch pour créer des conditions dans votre code.
 

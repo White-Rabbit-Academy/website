@@ -1,4 +1,4 @@
-# 09 - Événements
+# Javascript Événements
 
 ## Événements : Comment utiliser les événements pour créer des interactions utilisateur en JavaScript.
 

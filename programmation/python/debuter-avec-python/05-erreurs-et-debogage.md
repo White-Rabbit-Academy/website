@@ -1,4 +1,4 @@
-# 05 - Erreurs et débogage
+# Python Erreurs et débogage
 
 Le point 5 concerne les erreurs et le débogage en programmation. Il est important de comprendre comment gérer les erreurs qui peuvent survenir lors de l'exécution de votre code, ainsi que les outils et les techniques utilisés pour les détecter et les corriger.
 

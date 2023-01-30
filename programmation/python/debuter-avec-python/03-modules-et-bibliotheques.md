@@ -1,4 +1,4 @@
-# 03 - Modules et bibliothèques
+# Python Modules et bibliothèques
 
 Les modules et les bibliothèques en Python sont des ensembles de fonctions, classes et variables qui peuvent être utilisés pour ajouter des fonctionnalités à vos programmes. Ils permettent de structurer et de réutiliser facilement le code, et d'éviter la duplication de code.
 

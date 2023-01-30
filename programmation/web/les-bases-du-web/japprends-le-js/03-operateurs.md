@@ -1,4 +1,4 @@
-# 03 - Opérateurs
+# Javascript Opérateurs
 
 ## Opérateurs : Les différents opérateurs arithmétiques et de comparaison utilisés en JavaScript.
 
