@@ -8,4 +8,10 @@ Une fois la machine virtuelle créée, vous pouvez l'allumer et installer le sys
 
 En utilisant VMware Workstation, vous pouvez facilement tester des logiciels ou des configurations sur différents systèmes d'exploitation sans avoir à redémarrer votre ordinateur physique. Il est également possible de prendre des instantanés de la machine virtuelle, ce qui vous permet de revenir à une configuration précédente en cas de problème.
 
-<figure><img src="../../../.gitbook/assets/vmware-fdc285439f.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/vmware-fdc285439f.jpg" alt=""><figcaption></figcaption></figure>
+
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="vmware-install-on-windows.md">vmware-install-on-windows.md</a></td></tr><tr><td><a href="vmware-install-on-linux.md">vmware-install-on-linux.md</a></td></tr></tbody></table>
+
+{% content-ref url="vmware-premiere-vm.md" %}
+[vmware-premiere-vm.md](vmware-premiere-vm.md)
+{% endcontent-ref %}
