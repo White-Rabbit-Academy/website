@@ -6,4 +6,4 @@ coverY: 0
 
 # 📡 Réseaux - suite
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="les-equipements-de-couche-2.md">les-equipements-de-couche-2.md</a></td></tr><tr><td><a href="switching.md">switching.md</a></td></tr><tr><td><a href="les-equipements-de-couche-3.md">les-equipements-de-couche-3.md</a></td></tr><tr><td><a href="routage-statique.md">routage-statique.md</a></td></tr><tr><td><a href="acl-de-routeur.md">acl-de-routeur.md</a></td></tr><tr><td><a href="vlan.md">vlan.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="les-equipements-de-couche-2.md">les-equipements-de-couche-2.md</a></td></tr><tr><td><a href="switching.md">switching.md</a></td></tr><tr><td><a href="les-equipements-de-couche-3.md">les-equipements-de-couche-3.md</a></td></tr><tr><td><a href="routage-statique.md">routage-statique.md</a></td></tr><tr><td><a href="acl-de-routeur.md">acl-de-routeur.md</a></td></tr><tr><td><a href="vlan.md">vlan.md</a></td></tr></tbody></table>

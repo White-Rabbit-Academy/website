@@ -33,3 +33,7 @@ Il est également possible de configurer les services pour qu'ils ne démarrent 
 Il est important de noter que les commandes et les noms de services peuvent varier en fonction de la distribution Linux utilisée. Il est donc recommandé de se référer à la documentation de la distribution pour connaître les commandes exactes à utiliser.
 
 Il est aussi possible d'utiliser des outils graphiques pour gérer les services, comme sysv-rc-conf pour SysVinit ou system-config-services pour systemd, cela facilite la gestion des services pour des utilisateurs qui ne sont pas à l'aise avec les commandes en ligne de commande.
+
+{% content-ref url="gestion-du-demarrage-de-linux/dualboot.md" %}
+[dualboot.md](gestion-du-demarrage-de-linux/dualboot.md)
+{% endcontent-ref %}
