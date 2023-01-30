@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/ef85065739894b2f2f3f19cf02597198.jpg
 coverY: 0
 ---
 
-# Bien débuter
+# 👑 Bien débuter
 
 Il est important de débuter avec les bases en utilisant Deno car cela vous permettra de comprendre comment fonctionne le runtime et comment utiliser les différentes fonctionnalités qu'il offre.
 
@@ -17,8 +17,6 @@ En somme, en débutant avec les bases en utilisant Deno, vous vous donnerez les 
 
 Débutant dans le domaine du Javascript/Typescript. Commence par lire ce cours :&#x20;
 
-[japprends-le-js](../../../programmation/web/les-bases-du-web/japprends-le-js/ "mention")
-
-
-
-Puis: [deno-run.md](deno-run.md "mention")
+{% content-ref url="../../javascript/javascript-decouverte/" %}
+[javascript-decouverte](../../javascript/javascript-decouverte/)
+{% endcontent-ref %}

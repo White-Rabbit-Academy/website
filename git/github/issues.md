@@ -3,7 +3,7 @@ cover: https://juristr.com/blog/assets/imgs/contribute-github/github_issues.png
 coverY: -212
 ---
 
-# Issues
+# 🪛 Issues
 
 Pour utiliser les "issues" de GitHub, vous devez d'abord avoir un compte sur GitHub. Ensuite, vous pouvez créer un "repository" (ou "repo") pour votre projet. Dans ce repo, vous avez l'option de créer des "issues", qui peuvent être utilisées pour signaler des bugs, demander des fonctionnalités ou discuter de questions liées au développement du projet.
 

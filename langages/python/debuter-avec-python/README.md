@@ -1,4 +1,4 @@
-# Débuter avec Python
+# 🐍 Débuter avec Python
 
 Pour apprendre à coder en Python, voici quelques éléments clés à maîtriser :
 
@@ -10,3 +10,5 @@ Pour apprendre à coder en Python, voici quelques éléments clés à maîtriser
 6. Pratique : pratiquer en écrivant des programmes simples pour mettre en pratique les concepts appris.
 7. Algorithmie : comprendre les concepts fondamentaux de l'algorithmie et de la résolution de problèmes.
 8. Connaissance des différents outils et environnements de développement pour écrire, tester et déboguer les codes.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="python-syntaxe-de-base.md">python-syntaxe-de-base.md</a></td></tr><tr><td><a href="python-types-de-donnees.md">python-types-de-donnees.md</a></td></tr><tr><td><a href="python-modules-et-bibliotheques.md">python-modules-et-bibliotheques.md</a></td></tr><tr><td><a href="python-programmation-orientee-objet.md">python-programmation-orientee-objet.md</a></td></tr><tr><td><a href="python-erreurs-et-debogage.md">python-erreurs-et-debogage.md</a></td></tr><tr><td><a href="python-pratique.md">python-pratique.md</a></td></tr><tr><td><a href="python-algorithmie.md">python-algorithmie.md</a></td></tr><tr><td><a href="python-connaissance-des-outils-de-dev.md">python-connaissance-des-outils-de-dev.md</a></td></tr></tbody></table>

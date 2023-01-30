@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Gestion de projet
+# 📚 Gestion de projet
 
 ## Les bases
 
