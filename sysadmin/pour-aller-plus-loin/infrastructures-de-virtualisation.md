@@ -1,2 +1,0 @@
-# Infrastructures de virtualisation
-
