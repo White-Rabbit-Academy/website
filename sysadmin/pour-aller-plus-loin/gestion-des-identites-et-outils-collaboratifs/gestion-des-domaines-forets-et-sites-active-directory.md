@@ -1,0 +1,5 @@
+# Gestion des domaines, forêts et sites Active Directory
+
+La gestion des domaines, forêts et sites dans Active Directory (AD) est un système de gestion de ressources informatiques qui permet de gérer les utilisateurs, les ordinateurs et les autres ressources d'une organisation. Les domaines sont des unités administratives distinctes dans AD qui peuvent inclure des utilisateurs, des ordinateurs, des groupes et d'autres ressources. Les forêts sont un ensemble de domaines qui partagent une structure commune, des politiques et des règles de sécurité. Les sites Active Directory définissent la topologie de réseau pour la réplication de données AD.
+
+Un exemple concret pourrait être une entreprise internationale qui a plusieurs filiales dans différents pays. Chaque filiale peut être un domaine distinct dans la forêt AD de l'entreprise, ce qui permet à chaque filiale de gérer ses propres utilisateurs et ressources tout en partageant les informations globales de l'entreprise. Les sites AD peuvent être utilisés pour définir la topologie de réseau pour la réplication de données AD entre les différents domaines pour garantir une synchronisation rapide des informations.
