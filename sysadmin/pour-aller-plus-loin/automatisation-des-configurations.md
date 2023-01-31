@@ -1,2 +1,0 @@
-# Automatisation des configurations
-
