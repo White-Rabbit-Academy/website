@@ -44,6 +44,6 @@ Il est également possible de déclarer et affecter des valeurs à une variable 
 let nomDeVariable = valeur;
 ```
 
-Il est important de noter que les noms de variables en JavaScript sont sensibles à la casse, c'est-à-dire qu'une variable nommée "nomDeVariable" est différente d'une variable nommée "nomdevariable". Il est donc important de respecter la casse lors de la déclaration et de l'utilisation des variables.
+Il est important de noter que les noms de variables en JavaScript sont sensibles à la casse, c'est-à-dire qu'une variable nommée "nomDeVariable" est différente d'une variable nommée "Nomdevariable". Il est donc important de respecter la casse lors de la déclaration et de l'utilisation des variables.
 
 En résumé, les variables en JavaScript permettent de stocker des valeurs dans un programme. Il existe 3 types de déclaration de variable var, let et const qui ont des comportements différents. Pour déclarer une variable on utilise var, let ou const suivi d'un nom qui ne peut pas être un mot réservé et pour lui donner une valeur on utilise l'opérateur d'affectation (=) suivi de la valeur à affecter.
