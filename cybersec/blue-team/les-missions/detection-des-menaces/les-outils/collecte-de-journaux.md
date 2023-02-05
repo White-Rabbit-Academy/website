@@ -1,0 +1,7 @@
+# Collecte de journaux
+
+Les outils de collecte de journaux sont des outils de cybersécurité qui permettent de collecter, d'analyser et de stocker les journaux d'événements des systèmes informatiques et des réseaux. Les journaux d'événements peuvent inclure des informations telles que les activités de l'utilisateur, les connexions réseau, les erreurs de système et les événements de sécurité tels que les tentatives d'intrusion.
+
+Les outils de collecte de journaux peuvent collecter des journaux à partir de différents équipements, tels que les pare-feu, les routeurs, les systèmes d'exploitation, les applications et les équipements de sécurité, et les stocker dans un emplacement centralisé pour une analyse ultérieure. Les outils de collecte de journaux peuvent également analyser en temps réel les journaux pour détecter des événements potentiellement malveillants.
+
+Les outils de collecte de journaux sont essentiels pour la surveillance de la sécurité des systèmes informatiques et des réseaux, car ils fournissent une vue complète de l'activité sur les systèmes et les réseaux. Les journaux peuvent être utilisés pour identifier les événements de sécurité qui peuvent indiquer une menace, et pour effectuer une analyse en profondeur en cas d'incident de sécurité. Les outils de collecte de journaux sont souvent utilisés en combinaison avec d'autres outils de sécurité pour une protection optimale de la cybersécurité.

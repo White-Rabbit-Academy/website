@@ -1,0 +1,7 @@
+# Reconnaissance préliminaire d'intrusion
+
+Les outils de reconnaissance préliminaire d'intrusion (IRP) sont des outils de cybersécurité qui permettent de détecter les activités potentiellement malveillantes sur les systèmes informatiques et les réseaux. Les IRP peuvent utiliser diverses méthodes pour détecter les menaces, telles que la surveillance du réseau, l'analyse de paquets réseau, la détection d'anomalies et la collecte de journaux d'événements.
+
+Les outils de reconnaissance préliminaire d'intrusion peuvent détecter les activités potentiellement malveillantes en temps réel et alerter les équipes de sécurité pour qu'elles puissent prendre les mesures nécessaires pour protéger les systèmes informatiques et les réseaux. Les IRP peuvent également être utilisés pour recueillir des informations sur les menaces détectées, y compris les informations sur les attaquants, les techniques d'attaque et les logiciels malveillants utilisés, afin de mieux comprendre les menaces et de développer des stratégies de sécurité plus efficaces.
+
+Les outils de reconnaissance préliminaire d'intrusion sont souvent utilisés en combinaison avec d'autres outils de sécurité pour une protection optimale de la cybersécurité. Les IRP peuvent également être intégrés dans des systèmes de sécurité plus vastes, tels que les systèmes de gestion de la sécurité des informations, pour une protection encore plus complète.
