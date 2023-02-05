@@ -10,6 +10,19 @@
 ## Programmation
 
 * [Home](script/soon.md)
+* [Les Bases - Software](programmation/les-bases-software/README.md)
+  * [📑 L’algorithmique](programmation/les-bases-software/lalgorithmique/README.md)
+    * [Introduction à l’algorithmique](programmation/les-bases-software/lalgorithmique/introduction-a-lalgorithmique.md)
+    * [Les instructions de base en pseudo-code](programmation/les-bases-software/lalgorithmique/les-instructions-de-base-en-pseudo-code.md)
+    * [Les instructions conditionnelles](programmation/les-bases-software/lalgorithmique/les-instructions-conditionnelles.md)
+    * [Les instructions itératives](programmation/les-bases-software/lalgorithmique/les-instructions-iteratives.md)
+    * [Les tableaux](programmation/les-bases-software/lalgorithmique/les-tableaux.md)
+    * [Les procédures et fonctions](programmation/les-bases-software/lalgorithmique/les-procedures-et-fonctions.md)
+  * [☕ Initiation à la programmation procédurales avec Java](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/README.md)
+    * [💻 Prise en main de l’environnement](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/prise-en-main-de-lenvironnement.md)
+    * [🧊 La plateforme Java](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/la-plateforme-java.md)
+    * [📚 Environnement de développement](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/environnement-de-developpement.md)
+    * [📖 Les fondamentaux du langage](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/les-fondamentaux-du-langage.md)
 
 ## Langages
 
@@ -63,6 +76,14 @@
     * [Administration à distance](langages/powershell/initiation-a-powershell/administration-a-distance.md)
     * [Gestion des modules](langages/powershell/initiation-a-powershell/gestion-des-modules.md)
 * [SQL](langages/sql.md)
+* [Java](langages/java/README.md)
+  * [☕ Initiation à Java](langages/java/initiation-a-java/README.md)
+    * [Types de données](langages/java/initiation-a-java/types-de-donnees.md)
+    * [Opérateurs](langages/java/initiation-a-java/operateurs.md)
+    * [Boucles](langages/java/initiation-a-java/boucles.md)
+    * [Tableaux](langages/java/initiation-a-java/tableaux.md)
+    * [Méthodes](langages/java/initiation-a-java/methodes.md)
+    * [Classes et objets](langages/java/initiation-a-java/classes-et-objets.md)
 
 ## Sysadmin
 
@@ -177,7 +198,7 @@
     * [Le protocole SNMP](sysadmin/les-bases/supervision-dune-infrastructure/le-protocole-snmp.md)
     * [Services NRPE](sysadmin/les-bases/supervision-dune-infrastructure/services-nrpe.md)
     * [Ecriture de sonde](sysadmin/les-bases/supervision-dune-infrastructure/ecriture-de-sonde.md)
-    * [Mise en œuvre avec Centreon](sysadmin/les-bases/supervision-dune-infrastructure/mise-en-oeuvre-avec-centreon.md)
+    * [Mise en œuvre avec Centreon](sysadmin/les-bases/supervision-dune-infrastructure/mise-en-oeuvre-avec-centreon.md)
   * [🪟 Services transverses Microsoft](sysadmin/les-bases/services-transverses-microsoft/README.md)
     * [Service RDS](sysadmin/les-bases/services-transverses-microsoft/service-rds.md)
     * [Serveur de déploiement WDS](sysadmin/les-bases/services-transverses-microsoft/serveur-de-deploiement-wds.md)
