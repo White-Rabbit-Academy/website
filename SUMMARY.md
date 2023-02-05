@@ -23,6 +23,15 @@
     * [🧊 La plateforme Java](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/la-plateforme-java.md)
     * [📚 Environnement de développement](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/environnement-de-developpement.md)
     * [📖 Les fondamentaux du langage](programmation/les-bases-software/initiation-a-la-programmation-procedurales-avec-java/les-fondamentaux-du-langage.md)
+* [Les Bases - Web](programmation/les-bases-web/README.md)
+  * [💻 Le développement Web côté Client](programmation/les-bases-web/le-developpement-web-cote-client/README.md)
+    * [Le Web et le client léger](programmation/les-bases-web/le-developpement-web-cote-client/le-web-et-le-client-leger.md)
+    * [Apprendre le HTML / CSS](programmation/les-bases-web/le-developpement-web-cote-client/apprendre-le-html-css.md)
+    * [Apprendre le JS](programmation/les-bases-web/le-developpement-web-cote-client/apprendre-le-js.md)
+    * [Le framework jQuery](programmation/les-bases-web/le-developpement-web-cote-client/le-framework-jquery.md)
+    * [Conseils pour bien coder](programmation/les-bases-web/le-developpement-web-cote-client/conseils-pour-bien-coder.md)
+  * [📂 Le langage de requête SQL](programmation/les-bases-web/le-langage-de-requete-sql/README.md)
+    * [SQL – Concepts avancés](programmation/les-bases-web/le-langage-de-requete-sql/sql-concepts-avances.md)
 
 ## Langages
 
@@ -75,7 +84,9 @@
     * [Gestion des erreurs](langages/powershell/initiation-a-powershell/gestion-des-erreurs.md)
     * [Administration à distance](langages/powershell/initiation-a-powershell/administration-a-distance.md)
     * [Gestion des modules](langages/powershell/initiation-a-powershell/gestion-des-modules.md)
-* [SQL](langages/sql.md)
+* [SQL](langages/sql/README.md)
+  * [DDL – La gestion des tables](langages/sql/ddl-la-gestion-des-tables.md)
+  * [DML – La gestion des données](langages/sql/dml-la-gestion-des-donnees.md)
 * [Java](langages/java/README.md)
   * [☕ Initiation à Java](langages/java/initiation-a-java/README.md)
     * [Types de données](langages/java/initiation-a-java/types-de-donnees.md)
@@ -88,7 +99,7 @@
 ## Sysadmin
 
 * [Home](sysadmin/home.md)
-* [Les bases](sysadmin/les-bases/README.md)
+* [Les Bases](sysadmin/les-bases/README.md)
   * [📡 Base du réseaux](sysadmin/les-bases/base-du-reseaux/README.md)
     * [Le modèle OSI](sysadmin/les-bases/base-du-reseaux/le-modele-osi.md)
     * [Les unités informatiques](sysadmin/les-bases/base-du-reseaux/les-unites-informatiques.md)

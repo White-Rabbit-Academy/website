@@ -53,3 +53,9 @@ public int addNumbers(int x, int y) {
 ```
 
 Ce sont les fondamentaux de base de Java. Il existe bien sûr de nombreux autres concepts tels que les tableaux, les classes et les objets, les exceptions, etc. qui sont importants pour comprendre et utiliser pleinement le langage Java.
+
+Pour en savoir plus:
+
+{% content-ref url="../../../langages/java/" %}
+[java](../../../langages/java/)
+{% endcontent-ref %}
