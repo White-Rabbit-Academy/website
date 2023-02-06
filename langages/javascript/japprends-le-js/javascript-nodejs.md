@@ -24,7 +24,7 @@ npm install nom-du-package
 Une fois installé, vous pouvez l'utiliser dans votre code en utilisant require :
 
 ```javascript
-var package = require('nom-du-package');
+const mypackage = require('nom-du-package');
 ```
 
 Il existe des milliers de packages disponibles sur npm, allant des bibliothèques de base de données aux bibliothèques de visualisation de données en passant par les bibliothèques pour les tests et les déploiements. En utilisant des packages, vous pouvez économiser du temps et de l'effort en réutilisant du code déjà écrit et testé, ainsi qu'en profitant des contributions de la communauté Node.js.

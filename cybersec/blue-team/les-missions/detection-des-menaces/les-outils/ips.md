@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1591696205602-2f950c417cb9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjaGFydHN8ZW58MHx8fHwxNjc1NjEyNjU2&ixlib=rb-4.0.3&q=80
-coverY: 0
----
-
 # IPS
 
 Les systèmes de prévention d'intrusion (IPS) sont des outils de cybersécurité qui surveillent les activités sur les réseaux et les systèmes informatiques pour détecter et bloquer les tentatives d'intrusion en temps réel. Ils sont conçus pour détecter les activités malveillantes et les alertes de sécurité qui peuvent indiquer une intrusion en cours, et de bloquer automatiquement les tentatives d'intrusion.
