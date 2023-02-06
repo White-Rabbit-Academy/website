@@ -406,3 +406,7 @@
 ## Anon Wave
 
 * [Les grands principes](anon-wave/soon.md)
+
+***
+
+* [Privacy Policy](privacy-policy.md)

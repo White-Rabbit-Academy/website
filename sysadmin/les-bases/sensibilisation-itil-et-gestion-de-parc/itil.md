@@ -56,7 +56,7 @@ Le Centre de support d'ITIL joue un rôle important dans la garantie de la quali
 
 ## Gestion de parc et centre support
 
-La gestion de parc et le Centre de support peuvent être intégrés à la méthodologie ITIL pour améliorer les processus de gestion des services informatiques. Voici comment cela peut être fait:
+a gestion de parc et le Centre de support peuvent être intégrés à la méthodologie ITIL pour améliorer les processus de gestion des services informatiques. Voici comment cela peut être fait:
 
 1. Gestion de parc: La gestion de parc peut être utilisée pour maintenir une vue complète et à jour des actifs informatiques utilisés pour fournir des services. Les informations sur les actifs peuvent être enregistrées dans la Configuration Management Database (CMDB) ITIL, qui peut aider à garantir que les informations sur les actifs sont exactes et à jour.
 2. Centre de support: Le Centre de support ITIL peut utiliser les informations sur les actifs stockées dans la CMDB pour résoudre les incidents et gérer les demandes de modification plus efficacement. Par exemple, en ayant une vue complète et à jour des actifs, le Centre de support peut identifier plus rapidement la cause d'un incident et le résoudre plus efficacement.
