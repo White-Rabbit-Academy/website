@@ -1,4 +1,10 @@
-# Les outils
+---
+cover: >-
+  https://images.unsplash.com/photo-1661956601030-fdfb9c7e9e2f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MXwxfHNlYXJjaHwxfHx0b29sc3xlbnwwfHx8fDE2NzU2Njk0OTk&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
+# 🔧 Les outils
 
 Les actions de détection des menaces en cybersécurité peuvent être réalisées à l'aide de différents types d'outils, notamment :
 

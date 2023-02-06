@@ -370,7 +370,7 @@
   * [📚 Ressources utiles](cybersec/blue-team/ressources-utiles.md)
   * [🎁 Les missions](cybersec/blue-team/les-missions/README.md)
     * [Détection des menaces](cybersec/blue-team/les-missions/detection-des-menaces/README.md)
-      * [Les outils](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/README.md)
+      * [🔧 Les outils](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/README.md)
         * [IDS](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/ids.md)
         * [IPS](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/ips.md)
         * [Surveillance du réseau](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/surveillance-du-reseau.md)
