@@ -378,3 +378,171 @@ console.log(filteredArray);
 {% endtab %}
 {% endtabs %}
 
+## Hardcore
+
+{% tabs %}
+{% tab title="Exercices" %}
+1. Écrire une fonction qui prend en entrée deux nombres et retourne leur somme.
+2. Écrire une fonction qui prend en entrée deux nombres et retourne leur produit.
+3. Écrire une fonction qui prend en entrée un nombre et retourne son carré.
+4. Écrire une fonction qui prend en entrée un nombre et retourne son cube.
+5. Écrire une fonction qui prend en entrée un nombre et retourne sa racine carrée.
+6. Écrire une fonction qui prend en entrée un nombre et retourne son inverse.
+7. Écrire une fonction qui prend en entrée un nombre et retourne sa valeur absolue.
+8. Écrire une fonction qui prend en entrée deux nombres et retourne leur quotient.
+9. Écrire une fonction qui prend en entrée deux nombres et retourne leur reste de la division euclidienne.
+10. Écrire une fonction qui prend en entrée un nombre et retourne son opposé.
+11. Écrire une fonction qui prend en entrée un nombre et retourne sa valeur arrondie au entier supérieur.
+12. Écrire une fonction qui prend en entrée un nombre et retourne sa valeur arrondie à l'entier inférieur.
+13. Écrire une fonction qui prend en entrée un nombre et retourne son arrondi au nombre entier le plus proche.
+14. Écrire une fonction qui retourne un nombre aléatoire compris entre deux nombres.
+15. Créer une fonction qui prend en entrée un tableau et retourne le nombre d'éléments.
+16. Créer une fonction qui prend en entrée un tableau et retourne la somme de ses éléments.
+17. Créer une fonction qui prend en entrée un tableau et retourne la moyenne de ses éléments.
+18. Créer une fonction qui prend en entrée un tableau et retourne le plus grand élément.
+19. Créer une fonction qui prend en entrée un tableau et retourne le plus petit élément.
+20. Créer une fonction qui prend en entrée un tableau et retourne un tableau de même longueur où chaque élément est son double.
+{% endtab %}
+
+{% tab title="Solutions" %}
+1. Créer une fonction qui retourne la somme de deux nombres.
+
+```javascript
+const add = (a, b) => a + b;
+console.log(add(1, 2));
+```
+
+2. Créer une fonction qui retourne la différence entre deux nombres.
+
+```javascript
+const subtract = (a, b) => a - b;
+console.log(subtract(1, 2));
+```
+
+3. Créer une fonction qui retourne le produit de deux nombres.
+
+```javascript
+const multiply = (a, b) => a * b;
+console.log(multiply(1, 2));
+```
+
+4. Créer une fonction qui retourne le quotient entre deux nombres.
+
+```javascript
+const divide = (a, b) => a / b;
+console.log(divide(1, 2));
+```
+
+5. Créer une fonction qui retourne la puissance d'un nombre.
+
+```javascript
+const power = (a, b) => a ** b;
+console.log(power(2, 3));
+```
+
+6. Créer une fonction qui retourne le reste d'une division.
+
+```css
+const modulo = (a, b) => a % b;
+console.log(modulo(7, 3));
+```
+
+7. Créer une fonction qui retourne le plus grand des deux nombres.
+
+```javascript
+const max = (a, b) => Math.max(a, b);
+console.log(max(1, 2));
+```
+
+8. Créer une fonction qui retourne le plus petit des deux nombres.
+
+```javascript
+const min = (a, b) => Math.min(a, b);
+console.log(min(1, 2));
+```
+
+9. Créer une fonction qui retourne la valeur absolue d'un nombre.
+
+```javascript
+const absolute = a => Math.abs(a);
+console.log(absolute(-1));
+```
+
+10. Créer une fonction qui retourne la racine carrée d'un nombre.
+
+```javascript
+const sqrt = a => Math.sqrt(a);
+console.log(sqrt(9));
+```
+
+11. Créer une fonction qui retourne le nombre arrondi d'un nombre.
+
+```javascript
+const round = a => Math.round(a);
+console.log(round(1.5));
+```
+
+12. Créer une fonction qui retourne le nombre arrondi supérieur d'un nombre.
+
+```javascript
+const ceil = a => Math.ceil(a);
+console.log(ceil(1.1));
+```
+
+13. Créer une fonction qui retourne le nombre arrondi inférieur d'un nombre.
+
+```javascript
+const floor = a => Math.floor(a);
+console.log(floor(1.9));
+```
+
+14. Créer une fonction qui retourne un nombre aléatoire compris entre deux nombres.
+
+```javascript
+const random = (a, b) => Math.random() * (b - a) + a;
+console.log(random(1, 10));
+```
+
+15. Créer une fonction qui prend en entrée un tableau et retourne le nombre d'éléments.
+
+```javascript
+const count = arr => arr.length;
+console.log(count([1, 2, 3, 4, 5]));
+```
+
+16. Créer une fonction qui prend en entrée un tableau et retourne la somme de ses éléments.
+
+```javascript
+const sum = arr => arr.reduce((a, b) => a + b, 0);
+console.log(sum([1, 2, 3, 4, 5]));
+```
+
+17. Créer une fonction qui prend en entrée un tableau et retourne la moyenne de ses éléments.
+
+```javascript
+const avg = arr => sum(arr) / count(arr);
+console.log(avg([1, 2, 3, 4, 5]));
+```
+
+18. Créer une fonction qui prend en entrée un tableau et retourne le plus grand élément.
+
+```javascript
+const max = arr => Math.max(...arr);
+console.log(max([1, 2, 3, 4, 5]));
+```
+
+19. Créer une fonction qui prend en entrée un tableau et retourne le plus petit élément.
+
+```javascript
+const min = arr => Math.min(...arr);
+console.log(min([1, 2, 3, 4, 5]));
+```
+
+20. Créer une fonction qui prend en entrée un tableau et retourne un tableau de même longueur où chaque élément est son double.
+
+```javascript
+const double = arr => arr.map(x => x * 2);
+console.log(double([1, 2, 3, 4, 5]));
+```
+{% endtab %}
+{% endtabs %}
