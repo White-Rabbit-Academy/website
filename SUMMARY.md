@@ -55,6 +55,8 @@
     * [Javascript Tableaux et objets](programmation/web/les-bases-du-web/japprends-le-js/07-tableaux-et-objets.md)
     * [Javascript DOM](programmation/web/les-bases-du-web/japprends-le-js/08-dom.md)
     * [Javascript Événements](programmation/web/les-bases-du-web/japprends-le-js/09-evenements.md)
+    * [Javascript Nodejs](langages/javascript/japprends-le-js/javascript-nodejs.md)
+  * [📖 Javascript Practice](langages/javascript/javascript-practice.md)
 * [Deno](script/deno/README.md)
   * [👑 Débuter avec Deno](script/deno/bien-debuter/README.md)
     * [Deno - run](script/deno/bien-debuter/deno-run.md)
