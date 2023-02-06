@@ -22,3 +22,5 @@ Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un 
 > Ce projet est porté bénévolement par:
 >
 > * [Sn0wAlice](https://github.com/Sn0wAlice)
+> * [Loucxf](https://github.com/Loucxf)
+
