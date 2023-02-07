@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Formations
+# 📖 Formations
 
 Voici une liste de plateformes en ligne de formation en cybersécurité pour les membres de la Blue Team:
 

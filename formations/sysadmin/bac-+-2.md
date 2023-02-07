@@ -9,3 +9,15 @@ coverY: 0
 {% hint style="success" %}
 Équivalent bac + 2 si suivit de l'ensemble des cours
 {% endhint %}
+
+{% content-ref url="../../sysadmin/les-bases/" %}
+[les-bases](../../sysadmin/les-bases/)
+{% endcontent-ref %}
+
+{% content-ref url="../../programmation/python/debuter-avec-python/" %}
+[debuter-avec-python](../../programmation/python/debuter-avec-python/)
+{% endcontent-ref %}
+
+{% content-ref url="../../langages/powershell/initiation-a-powershell/" %}
+[initiation-a-powershell](../../langages/powershell/initiation-a-powershell/)
+{% endcontent-ref %}

@@ -22,4 +22,4 @@ La cybersécurité est la pratique de protéger les systèmes informatiques, les
 
 ### Pages :&#x20;
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="home/formations.md">formations.md</a></td></tr><tr><td><a href="home/cve.md">cve.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="home/formations.md">formations.md</a></td></tr><tr><td><a href="home/cve.md">cve.md</a></td></tr><tr><td><a href="home/ctf.md">ctf.md</a></td></tr></tbody></table>

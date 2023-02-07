@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# CVE
+# 🗳 CVE
 
 Une CVE (Common Vulnerabilities and Exposures) est une base de données qui contient des informations sur les vulnérabilités de sécurité connues dans les logiciels et les systèmes d'exploitation. Les paramètres importants d'une CVE incluent le numéro de référence de la vulnérabilité (CVE ID), une description de la vulnérabilité, les produits affectés et les informations sur les correctifs disponibles.
 

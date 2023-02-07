@@ -4,6 +4,7 @@
 * [📔 Formations](formations.md)
   * [🌐 Sysadmin](formations/sysadmin/README.md)
     * [Bac + 2](formations/sysadmin/bac-+-2.md)
+    * [Bac + 4](formations/sysadmin/bac-+-4.md)
   * [💻 Développeur](formations/developpeur.md)
   * [🛡 Cybersécurité](formations/cybersecurite.md)
 
@@ -360,9 +361,9 @@
 ## Cybersec
 
 * [Home](cybersec/soon.md)
-  * [Formations](cybersec/home/formations.md)
-  * [CVE](cybersec/home/cve.md)
-  * [CTF](cybersec/home/ctf.md)
+  * [📖 Formations](cybersec/home/formations.md)
+  * [🗳 CVE](cybersec/home/cve.md)
+  * [🏴☠ CTF](cybersec/home/ctf.md)
 * [Cyber Menace](cybersec/cyber-menace/README.md)
   * [💻 Que faire avec une IP ?](cybersec/cyber-menace/que-faire-avec-une-ip.md)
   * [🎣 Le phishing](cybersec/cyber-menace/le-phishing.md)
@@ -379,7 +380,7 @@
         * [Détection d'anomalies](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/detection-danomalies.md)
         * [Collecte de journaux](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/collecte-de-journaux.md)
         * [Reconnaissance préliminaire d'intrusion](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/reconnaissance-preliminaire-dintrusion.md)
-    * [Analyse des incidents](cybersec/blue-team/les-missions/analyse-des-incidents/README.md)
+    * [Analyse des incidents](cybersec/blue-team/les-missions/analyse-des-incidents.md)
       * [Identification](cybersec/blue-team/les-missions/analyse-des-incidents/identification.md)
     * [Contrôle des accès](cybersec/blue-team/les-missions/controle-des-acces.md)
     * [Évaluation de la sécurité](cybersec/blue-team/les-missions/evaluation-de-la-securite.md)
