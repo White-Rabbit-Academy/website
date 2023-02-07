@@ -546,3 +546,30 @@ console.log(double([1, 2, 3, 4, 5]));
 ```
 {% endtab %}
 {% endtabs %}
+
+## Projets
+
+Voici des projets en JavaScript pour débutants :
+
+1. Un formulaire de contact avec validation de saisie de données
+2. Un carrousel d'images simple
+3. Un convertisseur de devises
+4. Un quiz à choix multiple
+5. Une horloge en temps réel
+6. Un jeu de devinettes
+7. Un générateur de citation aléatoire
+
+
+
+Voici 10 projets Node.js pour débutants :
+
+1. Un serveur HTTP simple
+2. Un système de gestion de fichiers avec téléchargement et suppression de fichiers
+3. Un outil de conversion de fichiers CSV en JSON
+4. Une API REST pour gérer une liste de tâches
+5. Une application de chat en temps réel avec WebSockets
+6. Un outil de recherche de mots clés dans un fichier texte
+7. Une application de blog avec CRUD (Création, Lecture, Mise à jour, Suppression) pour les articles
+8. Une application de gestion de contacts avec enregistrement en base de données
+9. Un générateur de mot de passe sécurisé
+10. Une application de reconnaissance de formes à partir d'images.
