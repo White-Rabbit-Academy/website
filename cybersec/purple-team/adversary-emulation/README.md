@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Adversary emulation
+# 🎭 Adversary emulation
 
 L'émulation d'adversaires (Adversary emulation) est une technique de cybersécurité qui consiste à simuler les actions d'un attaquant malveillant pour évaluer les vulnérabilités et la résilience de l'entreprise face à une attaque réelle. Cette technique est souvent utilisée pour tester les capacités de détection et de réponse d'une entreprise, et pour identifier les lacunes dans les processus de sécurité.
 

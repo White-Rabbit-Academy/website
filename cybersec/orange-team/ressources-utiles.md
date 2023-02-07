@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Ressources utiles
+# 📚 Ressources utiles
 
 Voici une liste de ressources utiles pour une équipe Orange Team en cybersécurité :
 
