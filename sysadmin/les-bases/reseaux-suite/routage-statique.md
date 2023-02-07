@@ -4,7 +4,7 @@ Le routage statique est un processus de routage dans les réseaux informatiques 
 
 Voici comment le routage statique fonctionne:
 
-1. Configuration manuelle des routes: L'administrateur de réseau configure manuellement les routes en entrant les informations sur la destination, la passerelle (routeur) et la masque de sous-réseau pour chaque route.
+1. Configuration manuelle des routes: L'administrateur de réseau configure manuellement les routes en entrant les informations sur la destination, la passerelle (routeur) et le masque de sous-réseau pour chaque route.
 2. Transmission des paquets: Lorsqu'un paquet de données arrive à un routeur, il examine l'adresse IP de la destination pour déterminer la meilleure route pour acheminer les données à leur destination finale. Si une route correspondante est définie, le routeur transmet le paquet de données à la passerelle suivante en suivant la route définie.
 3. Mise à jour manuelle des routes: Si un changement est apporté à la topologie du réseau (par exemple, si un nouveau réseau est ajouté), l'administrateur de réseau doit mettre à jour manuellement les routes pour refléter les modifications.
 
