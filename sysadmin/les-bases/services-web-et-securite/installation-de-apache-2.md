@@ -4,39 +4,24 @@ Voici les étapes générales pour installer Apache 2 sur un système d'exploita
 
 1. Mettre à jour les paquets:
 
-```
-sql
-```
-
-```sql
+```bash
 sudo apt update
 sudo apt upgrade
 ```
 
 2. Installer Apache2:
 
-```
-```
-
-```
+```bash
 sudo apt install apache2
 ```
 
 3. Vérifier l'installation en accédant à l'URL du serveur local dans un navigateur web:
 
 ```
-javascript
-```
-
-```javascript
 http://localhost
 ```
 
 4. Configurer le fichier de configuration Apache pour personnaliser la configuration du serveur:
-
-```
-bash
-```
 
 ```bash
 sudo nano /etc/apache2/apache2.conf
@@ -44,10 +29,7 @@ sudo nano /etc/apache2/apache2.conf
 
 5. Redémarrer le service Apache pour appliquer les modifications de configuration:
 
-```
-```
-
-```
+```bash
 sudo service apache2 restart
 ```
 
