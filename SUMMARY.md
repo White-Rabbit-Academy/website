@@ -196,7 +196,6 @@
     * [Découverte du service Apache](sysadmin/les-bases/services-web-et-securite/decouverte-du-service-apache.md)
     * [Découverte du service web IIS](sysadmin/les-bases/services-web-et-securite/decouverte-du-service-web-iis.md)
     * [Installation de apache 2](sysadmin/les-bases/services-web-et-securite/installation-de-apache-2.md)
-    * [Publication de site web](sysadmin/les-bases/services-web-et-securite/publication-de-site-web.md)
     * [Utilisation de Virtualhosts](sysadmin/les-bases/services-web-et-securite/utilisation-de-virtualhosts.md)
     * [Hébergement web on premises](sysadmin/les-bases/services-web-et-securite/hebergement-web-on-premises.md)
     * [Utilisation de certificats autosignés](sysadmin/les-bases/services-web-et-securite/utilisation-de-certificats-autosignes.md)

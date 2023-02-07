@@ -18,7 +18,7 @@ sudo apt install apache2
 3. Vérifier l'installation en accédant à l'URL du serveur local dans un navigateur web:
 
 ```
-http://localhost
+http://localhost (ou http://SERVER_IP)
 ```
 
 4. Configurer le fichier de configuration Apache pour personnaliser la configuration du serveur:
