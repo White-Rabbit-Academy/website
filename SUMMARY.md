@@ -381,6 +381,7 @@
         * [Reconnaissance préliminaire d'intrusion](cybersec/blue-team/les-missions/detection-des-menaces/les-outils/reconnaissance-preliminaire-dintrusion.md)
     * [Analyse des incidents](cybersec/blue-team/les-missions/analyse-des-incidents.md)
       * [Identification](cybersec/blue-team/les-missions/analyse-des-incidents/identification.md)
+      * [Containment](cybersec/blue-team/les-missions/analyse-des-incidents/containment.md)
     * [Contrôle des accès](cybersec/blue-team/les-missions/controle-des-acces.md)
     * [Évaluation de la sécurité](cybersec/blue-team/les-missions/evaluation-de-la-securite.md)
     * [Planification de la réponse aux incidents](cybersec/blue-team/les-missions/planification-de-la-reponse-aux-incidents.md)
