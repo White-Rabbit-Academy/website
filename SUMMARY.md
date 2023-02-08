@@ -345,6 +345,7 @@
 * [Les outils](sysadmin/les-outils/README.md)
   * [🗃 Virtualisation](sysadmin/les-outils/virtualisation/README.md)
     * [qemu](sysadmin/les-outils/virtualisation/qemu.md)
+    * [VirtualBox](sysadmin/les-outils/virtualisation/virtualbox.md)
 * [SecNumCloud](sysadmin/secnumcloud.md)
 
 ## Gestion de projet
