@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1584447128309-b66b7a4d1b63?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxwYW5pY3xlbnwwfHx8fDE2NzU4NDQwNDk&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # Analyse des incidents
 
 L'analyse d'incidents en cybersécurité, également appelée "Blue Team", fait référence à la méthode utilisée pour comprendre et résoudre les incidents de sécurité informatique. Cela vient du domaine de la cybersécurité où les "équipes bleues" sont responsables de la défense contre les attaques.
@@ -17,3 +23,7 @@ Voici les étapes générales pour effectuer une analyse des incidents en sécur
 7. Notification: Notifier les parties appropriées de l'incident et de la résolution.
 
 Il est important de suivre une méthodologie rigoureuse pour s'assurer que toutes les étapes sont effectuées de manière cohérente et complète. Il est également essentiel de disposer de politiques et de procédures claires en matière de gestion des incidents de sécurité informatique pour aider à orienter l'analyse.
+
+{% hint style="info" %}
+Pour plus d'infos: déroule le menu :)
+{% endhint %}
