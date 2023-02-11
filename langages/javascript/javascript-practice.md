@@ -569,7 +569,7 @@ Voici 10 projets Node.js pour débutants :
 4. Une API REST pour gérer une liste de tâches
 5. Une application de chat en temps réel avec WebSockets
 6. Un outil de recherche de mots clés dans un fichier texte
-7. Une application de blog avec CRUD (Création, Lecture, Mise à jour, Suppression) pour les articles
-8. Une application de gestion de contacts avec enregistrement en base de données
-9. Un générateur de mot de passe sécurisé
+7. Une application de gestion de contacts avec enregistrement en base de données
+8. Un générateur de mot de passe sécurisé
+9. Une application de blog avec CRUD (Création, Lecture, Mise à jour, Suppression) pour les articles
 10. Une application de reconnaissance de formes à partir d'images.
