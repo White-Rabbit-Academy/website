@@ -115,7 +115,6 @@
       * [VMware install on Linux](sysadmin/les-bases/systemes-clients-microsoft/initiation-vmware-workstation/vmware-install-on-linux.md)
       * [VMware première VM](sysadmin/les-bases/systemes-clients-microsoft/initiation-vmware-workstation/vmware-premiere-vm.md)
     * [L'écosystème Microsoft](sysadmin/les-bases/systemes-clients-microsoft/lecosysteme-microsoft.md)
-    * [Installation Windows Client](sysadmin/les-bases/systemes-clients-microsoft/installation-windows-client.md)
     * [Tour du système Windows](sysadmin/les-bases/systemes-clients-microsoft/tour-du-systeme-windows.md)
     * [Introduction à PowerShell](sysadmin/les-bases/systemes-clients-microsoft/introduction-a-powershell.md)
     * [Gestion du stockage](sysadmin/les-bases/systemes-clients-microsoft/gestion-du-stockage.md)
@@ -148,7 +147,6 @@
     * [Processus, redirections et pipelines](sysadmin/les-bases/distribution-gnu-linux/processus-redirections-et-pipelines.md)
     * [Archivage et compression](sysadmin/les-bases/distribution-gnu-linux/archivage-et-compression.md)
   * [🧰 Administration Debian GNU/Linux](sysadmin/les-bases/administration-debian-gnu-linux/README.md)
-    * [Installation d’une distribution Debian](sysadmin/les-bases/administration-debian-gnu-linux/installation-dune-distribution-debian.md)
     * [Gestion des paquets](sysadmin/les-bases/administration-debian-gnu-linux/gestion-des-paquets.md)
     * [Gestion du démarrage de Linux](sysadmin/les-bases/administration-debian-gnu-linux/gestion-du-demarrage-de-linux.md)
       * [Dualboot](sysadmin/les-bases/administration-debian-gnu-linux/gestion-du-demarrage-de-linux/dualboot.md)
@@ -347,6 +345,10 @@
     * [qemu](sysadmin/les-outils/virtualisation/qemu.md)
     * [VirtualBox](sysadmin/les-outils/virtualisation/virtualbox.md)
 * [SecNumCloud](sysadmin/secnumcloud.md)
+* [OS](sysadmin/os/README.md)
+  * [Installation Windows](sysadmin/os/installation-windows-client.md)
+  * [Installation Linux](sysadmin/os/installation-linux/README.md)
+    * [Installation d’une distribution Debian](sysadmin/os/installation-linux/installation-dune-distribution-debian.md)
 
 ## Gestion de projet
 
