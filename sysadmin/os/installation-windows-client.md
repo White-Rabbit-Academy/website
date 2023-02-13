@@ -1,3 +1,0 @@
-# Installation Windows Client
-
-todo

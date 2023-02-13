@@ -6,3 +6,4 @@ coverY: 0
 
 # OS
 
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../les-bases/systemes-clients-microsoft/installation-windows-client.md">installation-windows-client.md</a></td></tr><tr><td><a href="installation-linux/">installation-linux</a></td></tr></tbody></table>

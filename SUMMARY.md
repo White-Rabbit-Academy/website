@@ -346,9 +346,9 @@
     * [VirtualBox](sysadmin/les-outils/virtualisation/virtualbox.md)
 * [SecNumCloud](sysadmin/secnumcloud.md)
 * [OS](sysadmin/os/README.md)
-  * [Installation Windows](sysadmin/os/installation-windows-client.md)
-  * [Installation Linux](sysadmin/os/installation-linux/README.md)
-    * [Installation d’une distribution Debian](sysadmin/os/installation-linux/installation-dune-distribution-debian.md)
+  * [🪟 Installation Windows](sysadmin/les-bases/systemes-clients-microsoft/installation-windows-client.md)
+  * [🐧 Installation Linux](sysadmin/os/installation-linux/README.md)
+    * [Installation d’une distribution Debian](sysadmin/les-bases/administration-debian-gnu-linux/installation-dune-distribution-debian.md)
 
 ## Gestion de projet
 
