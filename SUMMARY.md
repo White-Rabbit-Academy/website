@@ -344,7 +344,6 @@
   * [🗃 Virtualisation](sysadmin/les-outils/virtualisation/README.md)
     * [qemu](sysadmin/les-outils/virtualisation/qemu.md)
     * [VirtualBox](sysadmin/les-outils/virtualisation/virtualbox.md)
-* [SecNumCloud](sysadmin/secnumcloud.md)
 * [OS](sysadmin/os/README.md)
   * [🪟 Installation Windows](sysadmin/les-bases/systemes-clients-microsoft/installation-windows-client.md)
   * [🐧 Installation Linux](sysadmin/os/installation-linux/README.md)
@@ -423,6 +422,11 @@
 ## Anon Wave
 
 * [Les grands principes](anon-wave/soon.md)
+
+## Partenaires
+
+* [SecNumCloud](partenaires/secnumcloud.md)
+* [Devenir partenaire](partenaires/devenir-partenaire.md)
 
 ***
 
