@@ -369,6 +369,7 @@
 * [Cyber Menace](cybersec/cyber-menace/README.md)
   * [💻 Que faire avec une IP ?](cybersec/cyber-menace/que-faire-avec-une-ip.md)
   * [🎣 Le phishing](cybersec/cyber-menace/le-phishing.md)
+  * [🎭 L'OSINT](cybersec/cyber-menace/losint.md)
 * [Blue Team](cybersec/blue-team/README.md)
   * [📚 Ressources utiles](cybersec/blue-team/ressources-utiles.md)
   * [🎁 Les missions](cybersec/blue-team/les-missions/README.md)
