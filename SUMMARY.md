@@ -418,6 +418,7 @@
 * [On dérive](cybersec/on-derive/README.md)
   * [🎥 Films](cybersec/on-derive/films/README.md)
     * [Who Am I - No System Is Safe](cybersec/on-derive/films/who-am-i-no-system-is-safe.md)
+    * [Blackhat](cybersec/on-derive/films/blackhat.md)
 
 ## Anon Wave
 
