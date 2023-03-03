@@ -7,7 +7,7 @@ coverY: 0
 # Bac + 4
 
 {% hint style="success" %}
-Équivalent bac + 2 si suivit de l'ensemble des cours
+Équivalent bac + 4 si suivit de l'ensemble des cours
 {% endhint %}
 
 {% content-ref url="../../sysadmin/pour-aller-plus-loin/" %}
