@@ -25,3 +25,6 @@ Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un 
 > * [Loucxf](https://github.com/Loucxf)
 > * [ben1782](https://github.com/ben1782)
 
+#### Nos partenaires
+
+{% embed url="https://go.getproton.me/aff_c?offer_id=26&aff_id=3371" %}

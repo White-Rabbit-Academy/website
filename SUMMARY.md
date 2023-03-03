@@ -427,6 +427,7 @@
 
 ## Partenaires
 
+* [Proton.me](partenaires/proton.me.md)
 * [SecNumCloud](partenaires/secnumcloud.md)
 * [Devenir partenaire](partenaires/devenir-partenaire.md)
 
